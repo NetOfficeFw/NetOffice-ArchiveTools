@@ -1,0 +1,4 @@
+- improve assembly detection
+- improve CustomPaneAttribute
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/111524

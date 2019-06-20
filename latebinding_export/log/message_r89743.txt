@@ -1,0 +1,3 @@
+- add exception log to appdomain handler
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/89743

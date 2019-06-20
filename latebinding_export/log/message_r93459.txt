@@ -1,0 +1,4 @@
+- add Settings.ExceptionMessage
+- add Settings.UseExceptionMessage
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/93459

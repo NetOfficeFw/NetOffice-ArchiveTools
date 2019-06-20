@@ -1,0 +1,5 @@
+- fix source edit control
+- fix this indexer
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72789

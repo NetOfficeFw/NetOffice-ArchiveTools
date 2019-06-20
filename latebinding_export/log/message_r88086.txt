@@ -1,0 +1,3 @@
+- add setbody for this indexers
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/88086

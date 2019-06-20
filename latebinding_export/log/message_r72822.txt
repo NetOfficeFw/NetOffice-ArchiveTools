@@ -1,0 +1,4 @@
+- add option generated project with LateBindingApi.Core project
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72822

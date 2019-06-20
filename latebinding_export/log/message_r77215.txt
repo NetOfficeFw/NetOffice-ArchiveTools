@@ -1,0 +1,3 @@
+- some fixes associated with NetOffice
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/77215

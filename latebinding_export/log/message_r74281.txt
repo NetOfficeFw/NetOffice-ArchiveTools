@@ -1,0 +1,4 @@
+- remove ref qualifier by default now
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/74281

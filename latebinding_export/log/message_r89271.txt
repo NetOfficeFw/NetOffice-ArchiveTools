@@ -1,0 +1,3 @@
+- add faked class constructor
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/89271

@@ -1,0 +1,4 @@
+add interface support
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71205

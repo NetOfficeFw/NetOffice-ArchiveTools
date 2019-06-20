@@ -1,0 +1,6 @@
+- add codegenerator property support
+- change project file format to "0.6"
+- office file on mainpage updated
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72014

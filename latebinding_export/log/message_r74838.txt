@@ -1,0 +1,5 @@
+- add Browable Attribute to COMObject Constructors
+- remove Browable Attribute from CoClass Constructor
+- fix AccessViolationException Bug in LateBindingApi.Core.Factory.GetParentLibraryGuid
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/74838

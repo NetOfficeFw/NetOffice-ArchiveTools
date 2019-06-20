@@ -1,0 +1,4 @@
+- rename LateBindingApiException to NetOfficeException
+- rename LateBindingApiAttribute to NetOfficeAssemblyAttribute
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/93455

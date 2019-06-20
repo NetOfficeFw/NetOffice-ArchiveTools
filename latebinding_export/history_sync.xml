@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="111659">
+<author>SND\SebastianDotNet_cp</author>
+<date>2014-11-20T01:25:01.117000Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/ITaskPane.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Visio/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.suo</path>
+</paths>
+<msg>- enable MSProject Tools message filter by default
+- change tools register code(programmable key)</msg>
+</logentry>
+<logentry
+   revision="111670">
+<author>SND\SebastianDotNet_cp</author>
+<date>2014-11-20T11:15:58.960000Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.suo</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="111678">
+<author>SND\SebastianDotNet_cp</author>
+<date>2014-11-20T16:29:34.260000Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.suo</path>
+</paths>
+<msg>- remove Excel TypeDescription provider reference</msg>
+</logentry>
+<logentry
+   revision="112777">
+<author>SND\SebastianDotNet_cp</author>
+<date>2015-02-12T23:51:15.840000Z</date>
+<paths>
+<path
+   action="M"
+   kind="">/LateBindingApi.suo</path>
+<path
+   kind=""
+   action="M">/NetOffice/COMObject.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/Core.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/DependentAssembly.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/EntityNotSupportedException.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/KeyTokens.txt</path>
+<path
+   kind=""
+   action="M">/NetOffice/Properties/AssemblyInfo.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/RunningObjectTable.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/Tools/Tweaks.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/Utils.cs</path>
+</paths>
+<msg>- add xml docu to NetOffice.Core
+- add MSForms to KeyTokens.txt</msg>
+</logentry>
+<logentry
+   revision="113238">
+<author>SND\SebastianDotNet_cp</author>
+<date>2015-03-08T04:35:51.067000Z</date>
+<paths>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/CommonUtils.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils/DocumentFormat.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils/FileUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/CommonUtils.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils/DocumentFormat.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils/FileUtils.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/CommonUtils.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.1031.xml</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.1033.xml</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.Designer.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.rtxt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.1031.xml</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.1033.xml</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.Designer.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.rtxt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DialogLayoutSettings.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DialogLocalizationSettings.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.1031.xml</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.1033.xml</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.Designer.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.rtxt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.1031.xml</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.1033.xml</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.Designer.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.rtxt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ToolsDialog.Designer.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ToolsDialog.rtxt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ToolsDialog.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/AppDomainInfo.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/AssemblyInfo.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/DiagnosticPair.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/DiagnosticPairCollection.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/EnvironmentInfo.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/HostInfo.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/Infos.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ColorUtils.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/DialogUtils.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ImageUtils.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ResourceUtils.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/TrayUtils.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/CommonUtils.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/CommonUtils.txt</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils</path>
+<path
+   kind=""
+   action="A">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils/DocumentFormat.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils/FileUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Project/CommonUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/CommonUtils.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils/DocumentFormat.txt</path>
+<path
+   action="A"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils/FileUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/ToolsApi.cs</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.suo</path>
+<path
+   action="M"
+   kind="">/NetOffice/NetOffice.csproj</path>
+<path
+   kind=""
+   action="A">/NetOffice/Tools/COMAddinBase.cs</path>
+</paths>
+<msg>- improve utils</msg>
+</logentry>
+<logentry
+   revision="113255">
+<author>SND\SebastianDotNet_cp</author>
+<date>2015-03-09T02:58:31.913000Z</date>
+<paths>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/CommonUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.suo</path>
+<path
+   kind=""
+   action="M">/NetOffice/Tools/CustomUIAttribute.cs</path>
+</paths>
+<msg>- fix utils</msg>
+</logentry>
+<logentry
+   revision="113256">
+<author>SND\SebastianDotNet_cp</author>
+<date>2015-03-09T05:15:45.530000Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.suo</path>
+</paths>
+<msg>- fix missing dispose(utils)</msg>
+</logentry>
+<logentry
+   revision="113380">
+<author>SND\SebastianDotNet_cp</author>
+<date>2015-03-16T20:20:20.733000Z</date>
+<paths>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils/FileUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils/FileUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/MultiRegisterAttribute.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ColorUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/DialogUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ImageUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ResourceUtils.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/TrayUtils.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils/FileUtils.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt</path>
+<path
+   action="M"
+   kind="">/LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils/FileUtils.txt</path>
+<path
+   kind=""
+   action="M">/LateBindingApi.suo</path>
+<path
+   kind=""
+   action="M">/NetOffice/Core.cs</path>
+<path
+   kind=""
+   action="A">/NetOffice/CurrentAppDomain.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/Interfaces/IFactoryInfo.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/Invoker.cs</path>
+<path
+   kind=""
+   action="M">/NetOffice/NetOffice.csproj</path>
+<path
+   kind=""
+   action="M">/NetOffice/WndUtils/WindowEnumerator.cs</path>
+</paths>
+<msg>- add CurrentAppDomain.cs</msg>
+</logentry>
+</log>

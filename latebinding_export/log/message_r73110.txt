@@ -1,0 +1,3 @@
+- add EntityTypeAttribute
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/73110

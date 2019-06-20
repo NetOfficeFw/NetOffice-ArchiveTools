@@ -1,0 +1,4 @@
+- improve documentation api part 1/2
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/82651

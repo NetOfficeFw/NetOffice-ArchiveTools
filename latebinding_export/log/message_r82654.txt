@@ -1,0 +1,4 @@
+- improve DebugConsole
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/82654

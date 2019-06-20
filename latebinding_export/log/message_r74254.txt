@@ -1,0 +1,3 @@
+- generate "/// <remark>" doku tag for enum members
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/74254

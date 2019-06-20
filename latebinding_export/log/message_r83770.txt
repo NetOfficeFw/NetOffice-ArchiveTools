@@ -1,0 +1,4 @@
+- add support for out parameters
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/83770

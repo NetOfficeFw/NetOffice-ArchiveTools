@@ -1,0 +1,4 @@
+change from backgroundworker to thread
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71422

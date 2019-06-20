@@ -1,0 +1,3 @@
+- change com-proxy analyzing(name) to non-casesensitiv
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/86249

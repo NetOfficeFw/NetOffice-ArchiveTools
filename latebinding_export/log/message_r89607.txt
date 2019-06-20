@@ -1,0 +1,5 @@
+- add source
+- auto initalize call
+- change latebindingapi.core to netoffice
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/89607

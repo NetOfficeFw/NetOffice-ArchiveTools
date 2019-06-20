@@ -1,0 +1,4 @@
+- improve performance of generated code
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/78338

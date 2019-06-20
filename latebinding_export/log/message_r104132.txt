@@ -1,0 +1,3 @@
+- add msdn documentation markder
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/104132

@@ -1,0 +1,3 @@
+- update c# generator
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/87950

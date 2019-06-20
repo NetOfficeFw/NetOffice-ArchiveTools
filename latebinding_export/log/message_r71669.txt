@@ -1,0 +1,4 @@
+add codegenerator multiple .NET Framework versions support
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71669

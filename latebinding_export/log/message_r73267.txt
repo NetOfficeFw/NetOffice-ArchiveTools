@@ -1,0 +1,3 @@
+ - fix NullReferenceException Bug in Variant return value
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/73267

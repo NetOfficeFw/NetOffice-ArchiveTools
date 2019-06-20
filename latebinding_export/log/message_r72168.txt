@@ -1,0 +1,4 @@
+- add struct COM Interop Flags(Marshal) Support
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72168

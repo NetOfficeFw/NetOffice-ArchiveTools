@@ -1,0 +1,3 @@
+- add cogenerator full this indexer support
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/73503

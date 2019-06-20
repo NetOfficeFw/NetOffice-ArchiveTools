@@ -1,0 +1,4 @@
+- add tools namespace
+- add debug console named pipes(not done)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/103825

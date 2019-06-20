@@ -1,0 +1,3 @@
+- same again
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/78465

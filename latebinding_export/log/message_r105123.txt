@@ -1,0 +1,3 @@
+- fix equal id, cheats
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/105123

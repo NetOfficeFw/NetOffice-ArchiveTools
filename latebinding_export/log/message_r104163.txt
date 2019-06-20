@@ -1,0 +1,3 @@
+- delete BuildProcessTemplates
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/104163

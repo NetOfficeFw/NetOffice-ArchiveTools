@@ -1,0 +1,3 @@
+- add CurrentAppDomain.cs
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/113380

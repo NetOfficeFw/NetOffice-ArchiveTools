@@ -1,0 +1,4 @@
+inherited interface support part-1
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71303

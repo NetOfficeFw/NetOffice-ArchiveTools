@@ -1,0 +1,4 @@
+- add vb.net codegenerator (part 3/4) 
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/86746

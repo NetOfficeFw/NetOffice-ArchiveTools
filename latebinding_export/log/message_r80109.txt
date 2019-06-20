@@ -1,0 +1,3 @@
+mb:2dc1ab09-fb90-4f41-b7b2-ca8d54da21bd
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/80109

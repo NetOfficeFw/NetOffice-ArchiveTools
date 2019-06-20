@@ -1,0 +1,4 @@
+fix AddTypeLibToDocument
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71376

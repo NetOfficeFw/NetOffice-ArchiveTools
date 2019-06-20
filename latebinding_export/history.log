@@ -1,0 +1,2947 @@
+------------------------------------------------------------------------
+r67033 | RNO\_MCLWEB | 2011-01-18 16:28:38 +0100 (Tue, 18 Jan 2011) | 1 line
+Changed paths:
+   A /
+
+Created team project folder $/LateBindingApi via the Team Project Creation Wizard
+------------------------------------------------------------------------
+r68164 | SND\SebastianDotNet_cp | 2011-02-08 01:47:03 +0100 (Tue, 08 Feb 2011) | 1 line
+Changed paths:
+   A /latebindingapi
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Class1.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Properties
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Properties/AssemblyInfo.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/AssemblyInfo.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistry.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryEntries.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryEntry.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryKey.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryKeys.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Utils.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/ListViewItemComparer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryEntries.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryEntry.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryKey.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryKeys.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibRegistry.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/FormMain.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/FormMain.designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/FormMain.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Program.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/AssemblyInfo.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Icon.png
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Resources.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Resources.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Settings.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Settings.settings
+   A /latebindingapi/LateBindingApi.Core
+   A /latebindingapi/LateBindingApi.Core/COMObject.cs
+   A /latebindingapi/LateBindingApi.Core/COMVariant.cs
+   A /latebindingapi/LateBindingApi.Core/Factory.cs
+   A /latebindingapi/LateBindingApi.Core/Interfaces
+   A /latebindingapi/LateBindingApi.Core/Interfaces/IEventBinding.cs
+   A /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   A /latebindingapi/LateBindingApi.Core/Interfaces/IObject.cs
+   A /latebindingapi/LateBindingApi.Core/Invoker.cs
+   A /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   A /latebindingapi/LateBindingApi.Core/LateBindingAttribute.cs
+   A /latebindingapi/LateBindingApi.Core/Properties
+   A /latebindingapi/LateBindingApi.Core/Properties/AssemblyInfo.cs
+   A /latebindingapi/LateBindingApi.Core/Settings.cs
+   A /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+   A /latebindingapi/LateBindingApi.Core/SupportByLibraryAttribute.cs
+   A /latebindingapi/LateBindingApi.sln
+
+
+------------------------------------------------------------------------
+r68475 | SND\SebastianDotNet_cp | 2011-02-11 22:22:12 +0100 (Fri, 11 Feb 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistry.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryEntries.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryEntry.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryKey.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Registry/TypeLibRegistryKeys.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Utils.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+- add interface support
+- add coclass support
+------------------------------------------------------------------------
+r69912 | SND\SebastianDotNet_cp | 2011-03-07 14:38:17 +0100 (Mon, 07 Mar 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingAttribute.cs
+
+disp interface method support
+------------------------------------------------------------------------
+r71205 | SND\SebastianDotNet_cp | 2011-03-31 19:45:15 +0200 (Thu, 31 Mar 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+add interface support
+
+------------------------------------------------------------------------
+r71303 | SND\SebastianDotNet_cp | 2011-04-03 16:57:17 +0200 (Sun, 03 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+inherited interface support part-1
+
+------------------------------------------------------------------------
+r71356 | SND\SebastianDotNet_cp | 2011-04-04 17:22:43 +0200 (Mon, 04 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+
+improve dependency libs check
+
+------------------------------------------------------------------------
+r71376 | SND\SebastianDotNet_cp | 2011-04-04 23:59:31 +0200 (Mon, 04 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/App.ico
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+fix AddTypeLibToDocument
+
+------------------------------------------------------------------------
+r71400 | SND\SebastianDotNet_cp | 2011-04-05 17:36:20 +0200 (Tue, 05 Apr 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.resx
+
+enhance dependency lib info
+cancel support backgroundworker
+
+------------------------------------------------------------------------
+r71422 | SND\SebastianDotNet_cp | 2011-04-06 00:42:45 +0200 (Wed, 06 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ThreadJob.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+
+change from backgroundworker to thread
+
+------------------------------------------------------------------------
+r71503 | SND\SebastianDotNet_cp | 2011-04-07 12:13:34 +0200 (Thu, 07 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ThreadJob.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+
+implement entity check isRef & isArray
+
+------------------------------------------------------------------------
+r71512 | SND\SebastianDotNet_cp | 2011-04-07 16:07:55 +0200 (Thu, 07 Apr 2011) | 2 lines
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ICodeGenerator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+analyzing part complete!
+
+------------------------------------------------------------------------
+r71517 | SND\SebastianDotNet_cp | 2011-04-07 17:08:13 +0200 (Thu, 07 Apr 2011) | 1 line
+Changed paths:
+   A /latebindingapi/Circus
+   A /latebindingapi/Circus/Circus.vbp
+   A /latebindingapi/Circus/Circus.vbw
+   A /latebindingapi/Circus/Doink.cls
+   A /latebindingapi/Circus/Readme.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Class1.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TLBINF32.DLL
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+
+add circus.vbp (visual basic6 dummy project)
+------------------------------------------------------------------------
+r71659 | SND\SebastianDotNet_cp | 2011-04-11 01:24:47 +0200 (Mon, 11 Apr 2011) | 4 lines
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.dll
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PathApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RessourceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Solution
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Solution/Solution.sln
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+add project reference support
+add codegenerator constant support
+add codegenerator enum support
+
+------------------------------------------------------------------------
+r71664 | SND\SebastianDotNet_cp | 2011-04-11 04:45:05 +0200 (Mon, 11 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+
+add codegenerator compile order project support
+
+------------------------------------------------------------------------
+r71669 | SND\SebastianDotNet_cp | 2011-04-11 07:55:17 +0200 (Mon, 11 Apr 2011) | 2 lines
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/HelpBox.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/HelpBox.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/HelpBox.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+
+add codegenerator multiple .NET Framework versions support
+
+------------------------------------------------------------------------
+r71672 | SND\SebastianDotNet_cp | 2011-04-11 09:15:42 +0200 (Mon, 11 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/HelpBox.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ThreadJob.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ICodeGenerator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ThreadJob.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+
+perform codegeneration as async operation
+
+------------------------------------------------------------------------
+r71680 | SND\SebastianDotNet_cp | 2011-04-11 14:31:39 +0200 (Mon, 11 Apr 2011) | 2 lines
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+
+fix codegenerator project reference bug
+
+------------------------------------------------------------------------
+r71683 | SND\SebastianDotNet_cp | 2011-04-11 17:21:52 +0200 (Mon, 11 Apr 2011) | 7 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+
+add interface mirror feature - this means for example in very rare situations
+a interface are changed from Interface in a DispatchInterface in a newer type library version.
+but its the same type, convert to 1 proxy class now.
+
+change project file format. old project files not longer valid.
+office file on mainpage are updated.
+
+------------------------------------------------------------------------
+r71684 | SND\SebastianDotNet_cp | 2011-04-11 17:50:25 +0200 (Mon, 11 Apr 2011) | 1 line
+Changed paths:
+   M /latebindingapi/Circus
+   M /latebindingapi/Circus/Circus.vbp
+   M /latebindingapi/Circus/Circus.vbw
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   A /latebindingapi/Readme.txt
+
+add readme.txt
+------------------------------------------------------------------------
+r71737 | SND\SebastianDotNet_cp | 2011-04-12 19:10:44 +0200 (Tue, 12 Apr 2011) | 4 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.resx
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+
+add enumerator support
+change projectfile version to "0.4"
+office file on mainpage updated.
+
+------------------------------------------------------------------------
+r71739 | SND\SebastianDotNet_cp | 2011-04-12 19:51:41 +0200 (Tue, 12 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+
+extend EnumerableApi
+
+------------------------------------------------------------------------
+r71972 | SND\SebastianDotNet_cp | 2011-04-18 00:30:19 +0200 (Mon, 18 Apr 2011) | 9 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Keywords.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RessourceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ProjectFileFormatException.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- lot of small bugfixes
+- add codegenerator CoClass support
+- add codegenerator method support
+- add codegenerator parameter support
+- generates a ready-to-compile solution
+
+- change project file format to "0.5"
+  office file on mainpage updated
+
+------------------------------------------------------------------------
+r71973 | SND\SebastianDotNet_cp | 2011-04-18 00:39:12 +0200 (Mon, 18 Apr 2011) | 1 line
+Changed paths:
+   M /latebindingapi
+   M /latebindingapi/Circus/Circus.vbw
+   M /latebindingapi/Circus/Doink.cls
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/Open.bmp
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/Save.bmp
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+
+extend Circus.vpb (visual basic6 dummy project)
+------------------------------------------------------------------------
+r71977 | SND\SebastianDotNet_cp | 2011-04-18 03:44:26 +0200 (Mon, 18 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/ClientApplication.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Program.cs
+
+- codegenerator supports all available options now
+
+------------------------------------------------------------------------
+r71978 | SND\SebastianDotNet_cp | 2011-04-18 04:31:30 +0200 (Mon, 18 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+
+- extend generated using instructions
+
+------------------------------------------------------------------------
+r72014 | SND\SebastianDotNet_cp | 2011-04-18 22:19:03 +0200 (Mon, 18 Apr 2011) | 4 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PathApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- add codegenerator property support
+- change project file format to "0.6"
+- office file on mainpage updated
+
+------------------------------------------------------------------------
+r72111 | SND\SebastianDotNet_cp | 2011-04-21 08:19:03 +0200 (Thu, 21 Apr 2011) | 8 lines
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/AliasApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Event
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Event/Interface.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RecordsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IEventBinding.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   A /latebindingapi/LateBindingApi.Core/LateBindingApiException.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- add analyzer/codegenerator alias support
+- add analyzer/codegenerator module support
+- add analyzer/codegenerator struct support (not finished, COM Interop Flags missing)
+- add versionindependent event support
+- change project file format to "0.7"
+- office file on mainpage updated
+- add created office solution to mainpage
+
+------------------------------------------------------------------------
+r72168 | SND\SebastianDotNet_cp | 2011-04-23 03:35:49 +0200 (Sat, 23 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RecordsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+
+- add struct COM Interop Flags(Marshal) Support
+
+------------------------------------------------------------------------
+r72191 | SND\SebastianDotNet_cp | 2011-04-23 21:16:59 +0200 (Sat, 23 Apr 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/ClientApplication.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.cs
+
+- exlude OLE Automation TypeLibrary
+- add interface generation-As-EarlyBind Support
+
+------------------------------------------------------------------------
+r72196 | SND\SebastianDotNet_cp | 2011-04-23 23:28:33 +0200 (Sat, 23 Apr 2011) | 5 lines
+Changed paths:
+   M /latebindingapi/Circus/Circus.vbp
+   M /latebindingapi/Circus/Circus.vbw
+   M /latebindingapi/Circus/Doink.cls
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+
+- extend vb6 dummy project
+- change to project file format "0.8"
+- office file on mainpage updated
+
+- nearly complete !
+------------------------------------------------------------------------
+r72197 | SND\SebastianDotNet_cp | 2011-04-23 23:36:41 +0200 (Sat, 23 Apr 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+
+- add pragma warning disable
+------------------------------------------------------------------------
+r72243 | SND\SebastianDotNet_cp | 2011-04-26 06:59:18 +0200 (Tue, 26 Apr 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Event/Interface.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- fix event trouble
+
+------------------------------------------------------------------------
+r72332 | SND\SebastianDotNet_cp | 2011-04-27 10:10:16 +0200 (Wed, 27 Apr 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Event/Interface.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Keywords.txt
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IEventBinding.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- add event bridge for CoClass on demand
+------------------------------------------------------------------------
+r72387 | SND\SebastianDotNet_cp | 2011-04-28 08:43:13 +0200 (Thu, 28 Apr 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- fix byRef Parameter COMObject in delegates
+- fix Invoker.CreateParamModifiers()
+
+------------------------------------------------------------------------
+r72391 | SND\SebastianDotNet_cp | 2011-04-28 10:11:11 +0200 (Thu, 28 Apr 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+
+update LateBindingApi.Core.Dll
+------------------------------------------------------------------------
+r72558 | SND\SebastianDotNet_cp | 2011-05-02 17:51:17 +0200 (Mon, 02 May 2011) | 3 lines
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Solution/Solution.sln
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/ClientApplication.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+
+- fix heavy enumerator bug
+- add .net 4 support
+
+------------------------------------------------------------------------
+r72559 | SND\SebastianDotNet_cp | 2011-05-02 18:18:59 +0200 (Mon, 02 May 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+
+- remove COMVariant Datatype
+- update LateBindingApi.Core dll's
+
+------------------------------------------------------------------------
+r72565 | SND\SebastianDotNet_cp | 2011-05-02 20:12:38 +0200 (Mon, 02 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   D /latebindingapi/LateBindingApi.Core/COMVariant.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IObject.cs
+
+- add COMObject properties
+------------------------------------------------------------------------
+r72572 | SND\SebastianDotNet_cp | 2011-05-02 21:29:11 +0200 (Mon, 02 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+
+- fix ProxyCountChanged event
+------------------------------------------------------------------------
+r72663 | SND\SebastianDotNet_cp | 2011-05-04 18:44:41 +0200 (Wed, 04 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- fix factory
+------------------------------------------------------------------------
+r72681 | SND\SebastianDotNet_cp | 2011-05-05 04:14:28 +0200 (Thu, 05 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+   M /latebindingapi/LateBindingApi.Core/SupportByLibraryAttribute.cs
+
+- fix sink helper
+------------------------------------------------------------------------
+r72731 | SND\SebastianDotNet_cp | 2011-05-06 14:54:36 +0200 (Fri, 06 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- fix invoker bug
+------------------------------------------------------------------------
+r72770 | SND\SebastianDotNet_cp | 2011-05-07 19:08:15 +0200 (Sat, 07 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- add optional parameter support .NET 4
+
+------------------------------------------------------------------------
+r72773 | SND\SebastianDotNet_cp | 2011-05-07 19:19:46 +0200 (Sat, 07 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- update LateBindingApi.Core.dll
+------------------------------------------------------------------------
+r72782 | SND\SebastianDotNet_cp | 2011-05-07 22:42:11 +0200 (Sat, 07 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Event/Interface.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RecordsApi.cs
+
+- add SupportByLibrary to xml source docu
+
+------------------------------------------------------------------------
+r72783 | SND\SebastianDotNet_cp | 2011-05-07 22:58:32 +0200 (Sat, 07 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+
+- fix project template
+
+------------------------------------------------------------------------
+r72784 | SND\SebastianDotNet_cp | 2011-05-07 23:02:05 +0200 (Sat, 07 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+
+- fix again *grrrr
+
+------------------------------------------------------------------------
+r72786 | SND\SebastianDotNet_cp | 2011-05-08 00:19:45 +0200 (Sun, 08 May 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+
+- fix property get return
+- fix supportbylibrary xml doku (one more time)
+
+------------------------------------------------------------------------
+r72789 | SND\SebastianDotNet_cp | 2011-05-08 01:40:07 +0200 (Sun, 08 May 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.Designer.cs
+
+- fix source edit control
+- fix this indexer
+
+------------------------------------------------------------------------
+r72822 | SND\SebastianDotNet_cp | 2011-05-08 18:44:21 +0200 (Sun, 08 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+
+- add option generated project with LateBindingApi.Core project
+
+------------------------------------------------------------------------
+r72899 | SND\SebastianDotNet_cp | 2011-05-09 17:10:18 +0200 (Mon, 09 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/ClientApplication.csproj
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+
+- fix set_Property SupportByLibrary Documentation
+
+------------------------------------------------------------------------
+r72903 | SND\SebastianDotNet_cp | 2011-05-09 19:09:52 +0200 (Mon, 09 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IEventBinding.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IObject.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/LateBindingApiException.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+   M /latebindingapi/LateBindingApi.Core/SupportByLibraryAttribute.cs
+
+- add xml source doku to LateBindingApi.Core.dll 
+------------------------------------------------------------------------
+r72904 | SND\SebastianDotNet_cp | 2011-05-09 19:10:33 +0200 (Mon, 09 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+
+- update codegenerator ressource dll's
+------------------------------------------------------------------------
+r72964 | SND\SebastianDotNet_cp | 2011-05-10 13:50:19 +0200 (Tue, 10 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+
+- fix COMObject Dispose()
+
+------------------------------------------------------------------------
+r73110 | SND\SebastianDotNet_cp | 2011-05-11 18:02:47 +0200 (Wed, 11 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RecordsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   A /latebindingapi/LateBindingApi.Core/EntityTypeAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/SupportByLibraryAttribute.cs
+
+- add EntityTypeAttribute
+------------------------------------------------------------------------
+r73124 | SND\SebastianDotNet_cp | 2011-05-11 21:37:06 +0200 (Wed, 11 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.Core/EntityTypeAttribute.cs
+
+- fix entity attribute
+------------------------------------------------------------------------
+r73267 | SND\SebastianDotNet_cp | 2011-05-12 23:07:34 +0200 (Thu, 12 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+ - fix NullReferenceException Bug in Variant return value
+------------------------------------------------------------------------
+r73376 | SND\SebastianDotNet_cp | 2011-05-14 07:33:19 +0200 (Sat, 14 May 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+
+- update LateBindingApi.Core.dll
+  EnableEvent is true by default
+  Factory.Initialize enables message filter
+------------------------------------------------------------------------
+r73503 | SND\SebastianDotNet_cp | 2011-05-16 03:43:16 +0200 (Mon, 16 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+
+- add cogenerator full this indexer support
+------------------------------------------------------------------------
+r74254 | SND\SebastianDotNet_cp | 2011-05-24 16:42:55 +0200 (Tue, 24 May 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+   M /latebindingapi/LateBindingApi.Core/SupportByLibraryAttribute.cs
+
+- generate "/// <remark>" doku tag for enum members
+------------------------------------------------------------------------
+r74281 | SND\SebastianDotNet_cp | 2011-05-24 22:20:10 +0200 (Tue, 24 May 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+
+- remove ref qualifier by default now
+
+------------------------------------------------------------------------
+r74838 | SND\SebastianDotNet_cp | 2011-06-02 16:17:14 +0200 (Thu, 02 Jun 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- add Browable Attribute to COMObject Constructors
+- remove Browable Attribute from CoClass Constructor
+- fix AccessViolationException Bug in LateBindingApi.Core.Factory.GetParentLibraryGuid
+------------------------------------------------------------------------
+r77215 | SND\SebastianDotNet_cp | 2011-07-21 01:15:49 +0200 (Thu, 21 Jul 2011) | 1 line
+Changed paths:
+   A /latebindingapi/Circus/Module1.bas
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+   A /latebindingapi/LateBindingApi.Core/app.config
+
+- some fixes associated with NetOffice
+------------------------------------------------------------------------
+r78323 | SND\SebastianDotNet_cp | 2011-08-14 08:03:28 +0200 (Sun, 14 Aug 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DubletteManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- add scan for duplicated interfaces (same interface id)
+------------------------------------------------------------------------
+r78338 | SND\SebastianDotNet_cp | 2011-08-14 18:56:24 +0200 (Sun, 14 Aug 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DerivedManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DubletteManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- improve performance of generated code
+
+------------------------------------------------------------------------
+r78460 | SND\SebastianDotNet_cp | 2011-08-17 21:14:35 +0200 (Wed, 17 Aug 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Keywords.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.cs
+
+improve type library browser
+
+------------------------------------------------------------------------
+r78465 | SND\SebastianDotNet_cp | 2011-08-17 23:43:18 +0200 (Wed, 17 Aug 2011) | 1 line
+Changed paths:
+   M /latebindingapi
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+
+- same again
+------------------------------------------------------------------------
+r80109 | SND\SebastianDotNet_cp | 2011-09-16 19:56:01 +0200 (Fri, 16 Sep 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DerivedManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   A /latebindingapi/LateBindingApi.Core/DebugConsole.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+
+mb:2dc1ab09-fb90-4f41-b7b2-ca8d54da21bd
+------------------------------------------------------------------------
+r80133 | SND\SebastianDotNet_cp | 2011-09-17 13:43:42 +0200 (Sat, 17 Sep 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/DebugConsole.cs
+
+mb:31e3b21a-70b2-4de5-b799-eb6c91e9cfec.
+------------------------------------------------------------------------
+r82020 | SND\SebastianDotNet_cp | 2011-10-26 10:56:08 +0200 (Wed, 26 Oct 2011) | 1 line
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Generator.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/LateBindingApi.CodeGenerator.Documentation.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/PathApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Properties
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Properties/AssemblyInfo.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Settings.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/ThreadJob.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   M /latebindingapi/LateBindingApi.sln
+
+- add docu file generator [related with NetOffice Developer Toolbox 'Office Compatibility']
+------------------------------------------------------------------------
+r82314 | SND\SebastianDotNet_cp | 2011-11-03 05:53:02 +0100 (Thu, 03 Nov 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FakedEnumeratorManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Generator.cs
+   A /latebindingapi/LateBindingApi.Core/CustomEnumeratorAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/Properties/AssemblyInfo.cs
+
+- add custom enumerator support for types with Count and Item(this indexer) but no enumerator
+
+------------------------------------------------------------------------
+r82651 | SND\SebastianDotNet_cp | 2011-11-11 01:27:34 +0100 (Fri, 11 Nov 2011) | 2 lines
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CustomMethodManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/CustomMethodManager.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FakedEnumeratorManager.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FakedPropertyManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.Documentation/LateBindingApi.CodeGenerator.Documentation.csproj
+   A /latebindingapi/LateBindingApi.Core/CustomMethodAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/Properties/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.Core/SupportByLibraryAttribute.cs
+
+- improve documentation api part 1/2
+
+------------------------------------------------------------------------
+r82654 | SND\SebastianDotNet_cp | 2011-11-11 01:53:32 +0100 (Fri, 11 Nov 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/DebugConsole.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- improve DebugConsole
+
+------------------------------------------------------------------------
+r82689 | SND\SebastianDotNet_cp | 2011-11-11 17:15:54 +0100 (Fri, 11 Nov 2011) | 5 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- add bool SupportMethod(string name)
+- add bool SupportProperty(string name)
+- add bool SupportEntity(string name)
+- applied to COMObject,ask for available method or property at runtime
+
+------------------------------------------------------------------------
+r82690 | SND\SebastianDotNet_cp | 2011-11-11 17:19:30 +0100 (Fri, 11 Nov 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+
+- change parameterNames from Support methods
+
+------------------------------------------------------------------------
+r83652 | SND\SebastianDotNet_cp | 2011-12-05 23:10:18 +0100 (Mon, 05 Dec 2011) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/DebugConsole.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   D /latebindingapi/LateBindingApi.Core/Interfaces/IObject.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+   A /latebindingapi/LateBindingApi.Core/SupportEntityType.cs
+
+- refactoring LateBindingApi.Core.dll
+- add Settings.AddHocLoading ( automatic load dependend assemblies while Initialize() )
+- add Settings.AutomaticQuit ( automatic quit for application objects while Dipsose() specialy for using statements )
+------------------------------------------------------------------------
+r83770 | SND\SebastianDotNet_cp | 2011-12-10 08:49:50 +0100 (Sat, 10 Dec 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+
+- add support for out parameters
+
+------------------------------------------------------------------------
+r83829 | SND\SebastianDotNet_cp | 2011-12-11 23:24:36 +0100 (Sun, 11 Dec 2011) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.resx
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+- add statistics feature
+------------------------------------------------------------------------
+r83930 | SND\SebastianDotNet_cp | 2011-12-16 10:57:05 +0100 (Fri, 16 Dec 2011) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.cs
+
+- fix this indexer with optional parameters
+
+------------------------------------------------------------------------
+r85029 | SND\SebastianDotNet_cp | 2012-01-09 13:11:29 +0100 (Mon, 09 Jan 2012) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.cs
+
+- change collection classes interface IEnumerable => IEnumerable<T>
+
+------------------------------------------------------------------------
+r85104 | SND\SebastianDotNet_cp | 2012-01-11 02:10:48 +0100 (Wed, 11 Jan 2012) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+
+- Hidden member support
+- IEnumerable<object> for unkown COM proxies
+
+------------------------------------------------------------------------
+r85292 | SND\SebastianDotNet_cp | 2012-01-15 02:08:20 +0100 (Sun, 15 Jan 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.Core/Properties/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+
+- last commit before start the vb.net codegenerator
+------------------------------------------------------------------------
+r85298 | SND\SebastianDotNet_cp | 2012-01-15 07:11:56 +0100 (Sun, 15 Jan 2012) | 1 line
+Changed paths:
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v2.0.dll
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.0.dll
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v3.5.dll
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Api/LateBindingApi.Core_v4.0.dll
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/AliasApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Api
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/Constructor.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/EventHelper.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/ConstantApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/CustomMethodManager.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/DerivedManager.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/DocumentationApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/DubletteManager.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumerableApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumeratorT.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumeratorT.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumerator.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumeratorT.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumsApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Event
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Event/Interface.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/EventApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/FakedEnumeratorManager.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Generator.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Help
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Help/HelpText.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.resx
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Interface
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Interface/Constructor.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Keywords.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/LateBindingApi.CodeGenerator.VB.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/ModuleApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/ParameterApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/PathApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Project
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/AssemblyInfo.vb
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/Project.vbproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/ProjectInfo.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/ProjectApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Properties
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Properties/AssemblyInfo.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/RecordsApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/RessourceApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Settings.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Solution
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/Solution/Solution.sln
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/SolutionApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/ClientApplication.csproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Form1.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Program.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/ThreadJob.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   M /latebindingapi/LateBindingApi.sln
+
+- add vb.net codegenerator (part 1/4)
+------------------------------------------------------------------------
+r85377 | SND\SebastianDotNet_cp | 2012-01-17 04:44:18 +0100 (Tue, 17 Jan 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/AliasApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ConstantApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CustomMethodManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DerivedManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DubletteManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/FakedEnumeratorManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Interface/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Keywords.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/PathApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/RecordsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/RessourceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Settings.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ThreadJob.cs
+
+- add vb.net codegenerator (part 2/4) 
+------------------------------------------------------------------------
+r86249 | SND\SebastianDotNet_cp | 2012-02-09 20:13:38 +0100 (Thu, 09 Feb 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/DebugConsole.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+
+- change com-proxy analyzing(name) to non-casesensitiv
+------------------------------------------------------------------------
+r86746 | SND\SebastianDotNet_cp | 2012-02-21 20:56:43 +0100 (Tue, 21 Feb 2012) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Event/Interface.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Interface/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Keywords.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/Project.vbproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/RecordsApi.cs
+
+- add vb.net codegenerator (part 3/4) 
+
+------------------------------------------------------------------------
+r87461 | SND\SebastianDotNet_cp | 2012-03-08 21:32:16 +0100 (Thu, 08 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.Documentation/LateBindingApi.CodeGenerator.Documentation.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CustomMethodManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Event/Interface.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/FakedEnumeratorManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Keywords.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/LateBindingApi.CodeGenerator.VB.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/Project.vbproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/SolutionApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/ClientApplication.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Form1.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Program.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Resources.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Settings.Designer.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/app.config
+   M /latebindingapi/LateBindingApi.sln
+
+- add vb.net codegenerator (part 4/4) 
+------------------------------------------------------------------------
+r87462 | SND\SebastianDotNet_cp | 2012-03-08 21:33:14 +0100 (Thu, 08 Mar 2012) | 1 line
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/App.config
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/AssemblyInfo.vb
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/ClientApplication.vbproj
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Form1.Designer.vb
+   A /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Form1.vb
+
+- add vb.net testclient
+------------------------------------------------------------------------
+r87667 | SND\SebastianDotNet_cp | 2012-03-12 11:45:28 +0100 (Mon, 12 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumeratorT.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   A /latebindingapi/LateBindingApi.Core/Attributes
+   A /latebindingapi/LateBindingApi.Core/Attributes/CustomEnumeratorAttribute.cs
+   A /latebindingapi/LateBindingApi.Core/Attributes/CustomMethodAttribute.cs
+   A /latebindingapi/LateBindingApi.Core/Attributes/EntityTypeAttribute.cs
+   A /latebindingapi/LateBindingApi.Core/Attributes/LateBindingAttribute.cs
+   A /latebindingapi/LateBindingApi.Core/Attributes/SupportByVersionAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   D /latebindingapi/LateBindingApi.Core/CustomEnumeratorAttribute.cs
+   D /latebindingapi/LateBindingApi.Core/CustomMethodAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/DebugConsole.cs
+   A /latebindingapi/LateBindingApi.Core/EntityNotSupportedException.cs
+   D /latebindingapi/LateBindingApi.Core/EntityTypeAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IEventBinding.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   D /latebindingapi/LateBindingApi.Core/LateBindingAttribute.cs
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+   M /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+   D /latebindingapi/LateBindingApi.Core/SupportByLibraryAttribute.cs
+   A /latebindingapi/LateBindingApi.Core/Utils.cs
+
+- fix vb.net code style
+------------------------------------------------------------------------
+r87933 | SND\SebastianDotNet_cp | 2012-03-17 15:34:04 +0100 (Sat, 17 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+
+- add NetOffice Cheat Window
+------------------------------------------------------------------------
+r87934 | SND\SebastianDotNet_cp | 2012-03-17 15:35:33 +0100 (Sat, 17 Mar 2012) | 1 line
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.Designer.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.resx
+
+- implement NetOffice cheat settings
+------------------------------------------------------------------------
+r87950 | SND\SebastianDotNet_cp | 2012-03-17 21:45:08 +0100 (Sat, 17 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/AliasApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FakedEnumeratorManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RecordsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   M /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/AliasApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ConstantApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/Help/HelpText.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.VB/RecordsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IEventBinding.cs
+   M /latebindingapi/LateBindingApi.Core/Utils.cs
+
+- update c# generator
+------------------------------------------------------------------------
+r88010 | SND\SebastianDotNet_cp | 2012-03-19 05:02:13 +0100 (Mon, 19 Mar 2012) | 2 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Dispose.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InheritedInterfaceManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Module
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Module/Module.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+
+- add static Globals to C# Generator
+- fix SupportByLibrary Bug(for CoClasses with multiple base interfaces in different versions)
+------------------------------------------------------------------------
+r88013 | SND\SebastianDotNet_cp | 2012-03-19 06:23:28 +0100 (Mon, 19 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+
+- undo enumerators for unkown com proxies 
+------------------------------------------------------------------------
+r88059 | SND\SebastianDotNet_cp | 2012-03-20 04:27:37 +0100 (Tue, 20 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CustomMethodManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+
+- fix SafeMode issue
+------------------------------------------------------------------------
+r88086 | SND\SebastianDotNet_cp | 2012-03-20 19:25:35 +0100 (Tue, 20 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+
+- add setbody for this indexers
+------------------------------------------------------------------------
+r88112 | SND\SebastianDotNet_cp | 2012-03-21 07:04:17 +0100 (Wed, 21 Mar 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FakedEnumeratorManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   M /latebindingapi/LateBindingApi.Core/Properties/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.Core/app.config
+
+- add AppDomain resolver
+------------------------------------------------------------------------
+r89023 | SND\SebastianDotNet_cp | 2012-04-09 15:05:22 +0200 (Mon, 09 Apr 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+
+- add UnderlyingComponentName for COMObject
+------------------------------------------------------------------------
+r89212 | SND\SebastianDotNet_cp | 2012-04-14 08:33:10 +0200 (Sat, 14 Apr 2012) | 3 lines
+Changed paths:
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConflictManager.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+
+- fix enum conversion
+- change COMObject to Object
+- add dumy base class because c# syntax issues 
+------------------------------------------------------------------------
+r89271 | SND\SebastianDotNet_cp | 2012-04-15 22:00:26 +0200 (Sun, 15 Apr 2012) | 1 line
+Changed paths:
+   A /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/FakedClassConstructor.txt
+
+- add faked class constructor
+------------------------------------------------------------------------
+r89485 | SND\SebastianDotNet_cp | 2012-04-21 01:34:34 +0200 (Sat, 21 Apr 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/COMObject.cs
+   M /latebindingapi/LateBindingApi.Core/Factory.cs
+   M /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   M /latebindingapi/LateBindingApi.Core/Invoker.cs
+   M /latebindingapi/LateBindingApi.Core/Settings.cs
+
+- implement Settings.EnableThreadSafe
+------------------------------------------------------------------------
+r89487 | SND\SebastianDotNet_cp | 2012-04-21 03:04:03 +0200 (Sat, 21 Apr 2012) | 1 line
+Changed paths:
+   M /latebindingapi/LateBindingApi.Core/Properties/AssemblyInfo.cs
+
+- set LateBindingApi.Core to 1.5
+------------------------------------------------------------------------
+r89606 | SND\SebastianDotNet_cp | 2012-04-23 20:25:21 +0200 (Mon, 23 Apr 2012) | 1 line
+Changed paths:
+   D /latebindingapi
+   D /latebindingapi/Circus
+   D /latebindingapi/Circus/Circus.vbp
+   D /latebindingapi/Circus/Circus.vbw
+   D /latebindingapi/Circus/Doink.cls
+   D /latebindingapi/Circus/Module1.bas
+   D /latebindingapi/Circus/Readme.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/AliasApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/Dispose.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConflictManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/CustomMethodManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DerivedManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/DubletteManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumerator.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumeratorT.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumeratorT.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumeratorT.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Event
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Event/Interface.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FakedEnumeratorManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/HelpBox.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/HelpBox.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/HelpBox.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InheritedInterfaceManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Interface/FakedClassConstructor.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Keywords.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Module
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Module/Module.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PathApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Properties
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Properties/AssemblyInfo.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RecordsApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/RessourceApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Solution
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/Solution/Solution.sln
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/ClientApplication.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/TestClient/Program.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.CSharp/ThreadJob.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ICodeGenerator.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ProjectFileFormatException.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/AssemblyInfo.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TLBINF32.DLL
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/ThreadJob.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.ComponentAnalyzer/Utils.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/CustomMethodManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FakedEnumeratorManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FakedPropertyManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Generator.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/LateBindingApi.CodeGenerator.Documentation.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/PathApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Properties
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Properties/AssemblyInfo.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/Settings.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.Documentation/ThreadJob.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/AliasApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Api
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/Constructor.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClass/EventHelper.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/ConstantApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/CustomMethodManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/DerivedManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/DocumentationApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/DubletteManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumerableApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumerator.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumeratorT.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumerator.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumeratorT.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumerator.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumeratorT.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/EnumsApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Event
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Event/Interface.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/EventApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/FakedEnumeratorManager.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/FormConfigDialog.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Generator.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Help
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Help/HelpText.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/HelpBox.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Interface
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Interface/Constructor.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Keywords.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/LateBindingApi.CodeGenerator.VB.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/ModuleApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/ParameterApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/PathApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Project
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/AssemblyInfo.vb
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/Project.vbproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Project/ProjectInfo.txt
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/ProjectApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Properties
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Properties/AssemblyInfo.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/RecordsApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/RessourceApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Settings.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Solution
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/Solution/Solution.sln
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/SolutionApi.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/App.config
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/AssemblyInfo.vb
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/ClientApplication.vbproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Form1.Designer.vb
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/TestClient/Form1.vb
+   D /latebindingapi/LateBindingApi.CodeGenerator.VB/ThreadJob.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/App.ico
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/ListViewItemComparer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/Open.bmp
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryEntries.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryEntry.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryKey.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryKeys.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/Save.bmp
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibRegistry.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/FormMain.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/FormMain.designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/FormMain.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Program.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/AssemblyInfo.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Icon.png
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Resources.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Resources.resx
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Settings.Designer.cs
+   D /latebindingapi/LateBindingApi.CodeGenerator.WFApplication/Properties/Settings.settings
+   D /latebindingapi/LateBindingApi.Core
+   D /latebindingapi/LateBindingApi.Core/Attributes
+   D /latebindingapi/LateBindingApi.Core/Attributes/CustomEnumeratorAttribute.cs
+   D /latebindingapi/LateBindingApi.Core/Attributes/CustomMethodAttribute.cs
+   D /latebindingapi/LateBindingApi.Core/Attributes/EntityTypeAttribute.cs
+   D /latebindingapi/LateBindingApi.Core/Attributes/LateBindingAttribute.cs
+   D /latebindingapi/LateBindingApi.Core/Attributes/SupportByVersionAttribute.cs
+   D /latebindingapi/LateBindingApi.Core/COMObject.cs
+   D /latebindingapi/LateBindingApi.Core/DebugConsole.cs
+   D /latebindingapi/LateBindingApi.Core/EntityNotSupportedException.cs
+   D /latebindingapi/LateBindingApi.Core/Factory.cs
+   D /latebindingapi/LateBindingApi.Core/Interfaces
+   D /latebindingapi/LateBindingApi.Core/Interfaces/IEventBinding.cs
+   D /latebindingapi/LateBindingApi.Core/Interfaces/IFactoryInfo.cs
+   D /latebindingapi/LateBindingApi.Core/Invoker.cs
+   D /latebindingapi/LateBindingApi.Core/LateBindingApi.Core.csproj
+   D /latebindingapi/LateBindingApi.Core/LateBindingApiException.cs
+   D /latebindingapi/LateBindingApi.Core/Properties
+   D /latebindingapi/LateBindingApi.Core/Properties/AssemblyInfo.cs
+   D /latebindingapi/LateBindingApi.Core/Settings.cs
+   D /latebindingapi/LateBindingApi.Core/SinkHelper.cs
+   D /latebindingapi/LateBindingApi.Core/SupportEntityType.cs
+   D /latebindingapi/LateBindingApi.Core/Utils.cs
+   D /latebindingapi/LateBindingApi.Core/app.config
+   D /latebindingapi/LateBindingApi.sln
+   D /latebindingapi/Readme.txt
+
+- delete source (svn trouble)
+------------------------------------------------------------------------
+r89607 | SND\SebastianDotNet_cp | 2012-04-23 20:29:48 +0200 (Mon, 23 Apr 2012) | 3 lines
+Changed paths:
+   A /Circus
+   A /Circus/Circus.vbp
+   A /Circus/Circus.vbw
+   A /Circus/Doink.cls
+   A /Circus/Module1.bas
+   A /Circus/Readme.txt
+   A /LateBindingApi.CodeGenerator.CSharp
+   A /LateBindingApi.CodeGenerator.CSharp/AliasApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/CoClass
+   A /LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   A /LateBindingApi.CodeGenerator.CSharp/CoClass/Dispose.txt
+   A /LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   A /LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/ConflictManager.cs
+   A /LateBindingApi.CodeGenerator.CSharp/ConstantApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/CustomMethodManager.cs
+   A /LateBindingApi.CodeGenerator.CSharp/DerivedManager.cs
+   A /LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/DubletteManager.cs
+   A /LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Enumerator
+   A /LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumerator.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Enumerator/FakedEnumeratorT.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumerator.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Enumerator/NativeEnumeratorT.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumerator.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Enumerator/ProxyEnumeratorT.txt
+   A /LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Event
+   A /LateBindingApi.CodeGenerator.CSharp/Event/Interface.txt
+   A /LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/FakedEnumeratorManager.cs
+   A /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   A /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   A /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.resx
+   A /LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Help
+   A /LateBindingApi.CodeGenerator.CSharp/Help/HelpText.txt
+   A /LateBindingApi.CodeGenerator.CSharp/HelpBox.Designer.cs
+   A /LateBindingApi.CodeGenerator.CSharp/HelpBox.cs
+   A /LateBindingApi.CodeGenerator.CSharp/HelpBox.resx
+   A /LateBindingApi.CodeGenerator.CSharp/InheritedInterfaceManager.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Interface
+   A /LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Interface/FakedClassConstructor.txt
+   A /LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Keywords.txt
+   A /LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   A /LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Module
+   A /LateBindingApi.CodeGenerator.CSharp/Module/Module.txt
+   A /LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/ParameterApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/PathApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Project
+   A /LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   A /LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   A /LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Properties
+   A /LateBindingApi.CodeGenerator.CSharp/Properties/AssemblyInfo.cs
+   A /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/RecordsApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/RessourceApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Solution
+   A /LateBindingApi.CodeGenerator.CSharp/Solution/Solution.sln
+   A /LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/TestClient
+   A /LateBindingApi.CodeGenerator.CSharp/TestClient/ClientApplication.csproj
+   A /LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   A /LateBindingApi.CodeGenerator.CSharp/TestClient/Program.cs
+   A /LateBindingApi.CodeGenerator.CSharp/ThreadJob.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/ICodeGenerator.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.ComponentAnalyzer.csproj
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xml
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/LateBindingApi.CodeGenerator.Document.xsd
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/MethodHandler.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/ProjectFileFormatException.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/AssemblyInfo.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.Designer.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/Properties/Resources.resx
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/PropertyHandler.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/TLBINF32.DLL
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/ThreadJob.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   A /LateBindingApi.CodeGenerator.ComponentAnalyzer/Utils.cs
+   A /LateBindingApi.CodeGenerator.Documentation
+   A /LateBindingApi.CodeGenerator.Documentation/CustomMethodManager.cs
+   A /LateBindingApi.CodeGenerator.Documentation/FakedEnumeratorManager.cs
+   A /LateBindingApi.CodeGenerator.Documentation/FakedPropertyManager.cs
+   A /LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.Designer.cs
+   A /LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.cs
+   A /LateBindingApi.CodeGenerator.Documentation/FormConfigDialog.resx
+   A /LateBindingApi.CodeGenerator.Documentation/Generator.cs
+   A /LateBindingApi.CodeGenerator.Documentation/LateBindingApi.CodeGenerator.Documentation.csproj
+   A /LateBindingApi.CodeGenerator.Documentation/PathApi.cs
+   A /LateBindingApi.CodeGenerator.Documentation/Properties
+   A /LateBindingApi.CodeGenerator.Documentation/Properties/AssemblyInfo.cs
+   A /LateBindingApi.CodeGenerator.Documentation/Settings.cs
+   A /LateBindingApi.CodeGenerator.Documentation/ThreadJob.cs
+   A /LateBindingApi.CodeGenerator.VB
+   A /LateBindingApi.CodeGenerator.VB/AliasApi.cs
+   A /LateBindingApi.CodeGenerator.VB/Api
+   A /LateBindingApi.CodeGenerator.VB/CoClass
+   A /LateBindingApi.CodeGenerator.VB/CoClass/Constructor.txt
+   A /LateBindingApi.CodeGenerator.VB/CoClass/EventHelper.txt
+   A /LateBindingApi.CodeGenerator.VB/CoClassApi.cs
+   A /LateBindingApi.CodeGenerator.VB/ConstantApi.cs
+   A /LateBindingApi.CodeGenerator.VB/CustomMethodManager.cs
+   A /LateBindingApi.CodeGenerator.VB/DerivedManager.cs
+   A /LateBindingApi.CodeGenerator.VB/DispatchApi.cs
+   A /LateBindingApi.CodeGenerator.VB/DocumentationApi.cs
+   A /LateBindingApi.CodeGenerator.VB/DubletteManager.cs
+   A /LateBindingApi.CodeGenerator.VB/EnumerableApi.cs
+   A /LateBindingApi.CodeGenerator.VB/Enumerator
+   A /LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumerator.txt
+   A /LateBindingApi.CodeGenerator.VB/Enumerator/FakedEnumeratorT.txt
+   A /LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumerator.txt
+   A /LateBindingApi.CodeGenerator.VB/Enumerator/NativeEnumeratorT.txt
+   A /LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumerator.txt
+   A /LateBindingApi.CodeGenerator.VB/Enumerator/ProxyEnumeratorT.txt
+   A /LateBindingApi.CodeGenerator.VB/EnumsApi.cs
+   A /LateBindingApi.CodeGenerator.VB/Event
+   A /LateBindingApi.CodeGenerator.VB/Event/Interface.txt
+   A /LateBindingApi.CodeGenerator.VB/EventApi.cs
+   A /LateBindingApi.CodeGenerator.VB/FakedEnumeratorManager.cs
+   A /LateBindingApi.CodeGenerator.VB/FormConfigDialog.Designer.cs
+   A /LateBindingApi.CodeGenerator.VB/FormConfigDialog.cs
+   A /LateBindingApi.CodeGenerator.VB/FormConfigDialog.resx
+   A /LateBindingApi.CodeGenerator.VB/Generator.cs
+   A /LateBindingApi.CodeGenerator.VB/Help
+   A /LateBindingApi.CodeGenerator.VB/Help/HelpText.txt
+   A /LateBindingApi.CodeGenerator.VB/HelpBox.Designer.cs
+   A /LateBindingApi.CodeGenerator.VB/HelpBox.cs
+   A /LateBindingApi.CodeGenerator.VB/HelpBox.resx
+   A /LateBindingApi.CodeGenerator.VB/Interface
+   A /LateBindingApi.CodeGenerator.VB/Interface/Constructor.txt
+   A /LateBindingApi.CodeGenerator.VB/InterfaceApi.cs
+   A /LateBindingApi.CodeGenerator.VB/Keywords.txt
+   A /LateBindingApi.CodeGenerator.VB/LateBindingApi.CodeGenerator.VB.csproj
+   A /LateBindingApi.CodeGenerator.VB/MethodApi.cs
+   A /LateBindingApi.CodeGenerator.VB/ModuleApi.cs
+   A /LateBindingApi.CodeGenerator.VB/ParameterApi.cs
+   A /LateBindingApi.CodeGenerator.VB/PathApi.cs
+   A /LateBindingApi.CodeGenerator.VB/Project
+   A /LateBindingApi.CodeGenerator.VB/Project/AssemblyInfo.vb
+   A /LateBindingApi.CodeGenerator.VB/Project/Project.vbproj
+   A /LateBindingApi.CodeGenerator.VB/Project/ProjectInfo.txt
+   A /LateBindingApi.CodeGenerator.VB/ProjectApi.cs
+   A /LateBindingApi.CodeGenerator.VB/Properties
+   A /LateBindingApi.CodeGenerator.VB/Properties/AssemblyInfo.cs
+   A /LateBindingApi.CodeGenerator.VB/PropertyApi.cs
+   A /LateBindingApi.CodeGenerator.VB/RecordsApi.cs
+   A /LateBindingApi.CodeGenerator.VB/RessourceApi.cs
+   A /LateBindingApi.CodeGenerator.VB/Settings.cs
+   A /LateBindingApi.CodeGenerator.VB/Solution
+   A /LateBindingApi.CodeGenerator.VB/Solution/Solution.sln
+   A /LateBindingApi.CodeGenerator.VB/SolutionApi.cs
+   A /LateBindingApi.CodeGenerator.VB/TestClient
+   A /LateBindingApi.CodeGenerator.VB/TestClient/App.config
+   A /LateBindingApi.CodeGenerator.VB/TestClient/AssemblyInfo.vb
+   A /LateBindingApi.CodeGenerator.VB/TestClient/ClientApplication.vbproj
+   A /LateBindingApi.CodeGenerator.VB/TestClient/Form1.Designer.vb
+   A /LateBindingApi.CodeGenerator.VB/TestClient/Form1.vb
+   A /LateBindingApi.CodeGenerator.VB/ThreadJob.cs
+   A /LateBindingApi.CodeGenerator.WFApplication
+   A /LateBindingApi.CodeGenerator.WFApplication/App.ico
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/AliasGrid/AliasGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ClassGrid/ClassGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ConstantGrid/ConstantGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/EnumGrid/EnumGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InheritedGrid/InheritedGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/InterfaceGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/MethodsGrid/MethodsGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/ParametersGrid/ParametersGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/InterfaceGrid/PropertiesGrid/PropertiesGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryGrid/LibraryGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/LibraryTreeBrowser/LibraryTreeBrowserControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ModulGrid/ModulGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/ProjectGrid/ProjectGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/RecordGrid/RecordGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SolutionGrid/SolutionGridControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/SourceEdit/SourceEditControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/ListViewItemComparer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/Open.bmp
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryEntries.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryEntry.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryKey.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/RegistryKeys.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/Save.bmp
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibBrowserControl.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Controls/TypeLibBrowser/TypeLibRegistry.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/FormMain.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/FormMain.designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/FormMain.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormAbout.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormGeneratorBrowser.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormShowError.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormStatistics.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Forms/FormTypeLibBrowser.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   A /LateBindingApi.CodeGenerator.WFApplication/Program.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Properties
+   A /LateBindingApi.CodeGenerator.WFApplication/Properties/AssemblyInfo.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Properties/Icon.png
+   A /LateBindingApi.CodeGenerator.WFApplication/Properties/Resources.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Properties/Resources.resx
+   A /LateBindingApi.CodeGenerator.WFApplication/Properties/Settings.Designer.cs
+   A /LateBindingApi.CodeGenerator.WFApplication/Properties/Settings.settings
+   A /LateBindingApi.sln
+   A /NetOffice
+   A /NetOffice/Attributes
+   A /NetOffice/Attributes/CustomEnumeratorAttribute.cs
+   A /NetOffice/Attributes/CustomMethodAttribute.cs
+   A /NetOffice/Attributes/EntityTypeAttribute.cs
+   A /NetOffice/Attributes/LateBindingAttribute.cs
+   A /NetOffice/Attributes/SupportByVersionAttribute.cs
+   A /NetOffice/COMObject.cs
+   A /NetOffice/DebugConsole.cs
+   A /NetOffice/EntityNotSupportedException.cs
+   A /NetOffice/Factory.cs
+   A /NetOffice/Interfaces
+   A /NetOffice/Interfaces/IEventBinding.cs
+   A /NetOffice/Interfaces/IFactoryInfo.cs
+   A /NetOffice/Invoker.cs
+   A /NetOffice/LateBindingApiException.cs
+   A /NetOffice/NetOffice.csproj
+   A /NetOffice/Properties
+   A /NetOffice/Properties/AssemblyInfo.cs
+   A /NetOffice/Settings.cs
+   A /NetOffice/SinkHelper.cs
+   A /NetOffice/SupportEntityType.cs
+   A /NetOffice/Utils.cs
+   A /NetOffice/app.config
+   A /Readme.txt
+
+- add source
+- auto initalize call
+- change latebindingapi.core to netoffice
+------------------------------------------------------------------------
+r89743 | SND\SebastianDotNet_cp | 2012-04-25 18:58:39 +0200 (Wed, 25 Apr 2012) | 1 line
+Changed paths:
+   M /NetOffice/Factory.cs
+
+- add exception log to appdomain handler
+------------------------------------------------------------------------
+r89989 | SND\SebastianDotNet_cp | 2012-05-03 01:44:04 +0200 (Thu, 03 May 2012) | 2 lines
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClass/Dispose.txt
+   M /LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /NetOffice/Factory.cs
+
+- generate client profile (3.5 and 4.0)
+- fix Global Module
+------------------------------------------------------------------------
+r90042 | SND\SebastianDotNet_cp | 2012-05-04 15:37:02 +0200 (Fri, 04 May 2012) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   A /NetOffice/CacheOptions.cs
+   M /NetOffice/DebugConsole.cs
+   M /NetOffice/Factory.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/Settings.cs
+   M /NetOffice/SinkHelper.cs
+
+- fix returnvalue conversion bug
+------------------------------------------------------------------------
+r90429 | SND\SebastianDotNet_cp | 2012-05-14 00:25:54 +0200 (Mon, 14 May 2012) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /NetOffice/COMObject.cs
+   M /NetOffice/DebugConsole.cs
+   A /NetOffice/DependentAssembly.cs
+   M /NetOffice/Factory.cs
+   M /NetOffice/Invoker.cs
+   A /NetOffice/KeyTokens.txt
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/Settings.cs
+
+- change Initialize() implementation
+------------------------------------------------------------------------
+r93184 | SND\SebastianDotNet_cp | 2012-07-24 16:01:23 +0200 (Tue, 24 Jul 2012) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.cs
+
+- fix optional parameters (ParamFlags==17)
+------------------------------------------------------------------------
+r93455 | SND\SebastianDotNet_cp | 2012-08-03 02:54:49 +0200 (Fri, 03 Aug 2012) | 2 lines
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /LateBindingApi.CodeGenerator.ComponentAnalyzer/Analyzer.cs
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /NetOffice/Attributes/NetOfficeAssemblyAttribute.cs
+   M /NetOffice/DebugConsole.cs
+   M /NetOffice/EntityNotSupportedException.cs
+   M /NetOffice/Factory.cs
+   M /NetOffice/Interfaces/IFactoryInfo.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/NetOfficeException.cs
+   M /NetOffice/Properties/AssemblyInfo.cs
+
+- rename LateBindingApiException to NetOfficeException
+- rename LateBindingApiAttribute to NetOfficeAssemblyAttribute
+------------------------------------------------------------------------
+r93459 | SND\SebastianDotNet_cp | 2012-08-03 04:34:46 +0200 (Fri, 03 Aug 2012) | 2 lines
+Changed paths:
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   A /NetOffice/ExceptionMessageHandling.cs
+   M /NetOffice/Invoker.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/Settings.cs
+
+- add Settings.ExceptionMessage
+- add Settings.UseExceptionMessage
+------------------------------------------------------------------------
+r93475 | SND\SebastianDotNet_cp | 2012-08-03 16:47:25 +0200 (Fri, 03 Aug 2012) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.WFApplication/LateBindingApi.CodeGenerator.WFApplication.csproj
+   M /LateBindingApi.sln
+   M /NetOffice/Factory.cs
+   M /NetOffice/Interfaces/IFactoryInfo.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/Utils.cs
+
+-fix NetOfficeAssemblyAttribute
+------------------------------------------------------------------------
+r94557 | SND\SebastianDotNet_cp | 2012-09-15 17:24:47 +0200 (Sat, 15 Sep 2012) | 3 lines
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.Designer.cs
+   M /NetOffice/COMObject.cs
+   M /NetOffice/Factory.cs
+   M /NetOffice/Invoker.cs
+   M /NetOffice/KeyTokens.txt
+   M /NetOffice/NetOffice.csproj
+   A /NetOffice/OnDisposeEventHandler.cs
+   M /NetOffice/Properties/AssemblyInfo.cs
+   A /NetOffice/RunningObjectTable.cs
+   M /NetOffice/SinkHelper.cs
+
+- add RunningObjectTable.cs
+- add OnDisposeEventHandler.cs
+- add Dispose check
+------------------------------------------------------------------------
+r94876 | vstfs:///Framework/IdentityDomain/2327b42d-5241-43d6-9e2a-de5ac946f064\Project Collection Service Accounts | 2012-10-02 00:31:06 +0200 (Tue, 02 Oct 2012) | 1 line
+Changed paths:
+   A /BuildProcessTemplates
+   A /BuildProcessTemplates/DefaultTemplate.11.1.xaml
+   A /BuildProcessTemplates/UpgradeTemplate.xaml
+
+Checked in by server upgrade
+------------------------------------------------------------------------
+r94877 | vstfs:///Framework/IdentityDomain/2327b42d-5241-43d6-9e2a-de5ac946f064\Project Collection Service Accounts | 2012-10-02 00:38:35 +0200 (Tue, 02 Oct 2012) | 1 line
+Changed paths:
+   A /BuildProcessTemplates/LabDefaultTemplate.11.xaml
+
+Upgrade: New Version of LabDefaultTemplate.xaml. To upgrade your build definitions, please visit the following link: http://go.microsoft.com/fwlink/?LinkId=254563
+------------------------------------------------------------------------
+r95295 | SND\SebastianDotNet_cp | 2012-10-15 13:45:22 +0200 (Mon, 15 Oct 2012) | 2 lines
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Project/Project.csproj
+   M /LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   A /LateBindingApi.CodeGenerator.CSharp/Tools
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Access
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Access/ITaskPane.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Excel
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/ITaskPane.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/CustomTaskPaneCollection.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/ITaskPane.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/MultiRegisterAttribute.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/ITaskPane.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/ITaskPane.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Project
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Project/ITaskPane.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Visio
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Visio/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Word
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Word/ITaskPane.txt
+   A /LateBindingApi.CodeGenerator.CSharp/ToolsApi.cs
+   M /NetOffice/DebugConsole.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/Properties/AssemblyInfo.cs
+   A /NetOffice/RetryMessageFilter.cs
+   M /NetOffice/Settings.cs
+
+- add tools namespace
+- fix conversion bug (sinkhelper methods)
+------------------------------------------------------------------------
+r103825 | SND\SebastianDotNet_cp | 2013-10-11 16:21:14 +0200 (Fri, 11 Oct 2013) | 2 lines
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/EnumerableApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Project/AssemblyInfo.cs
+   M /LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/CustomTaskPaneCollection.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Visio/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.ComponentAnalyzer/TypeDescriptor.cs
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /LateBindingApi.sln
+   M /NetOffice/COMObject.cs
+   A /NetOffice/COMObjectExpandableObjectConverter.cs
+   M /NetOffice/DebugConsole.cs
+   M /NetOffice/Factory.cs
+   M /NetOffice/Invoker.cs
+   M /NetOffice/KeyTokens.txt
+   A /NetOffice/NamedPipes
+   A /NetOffice/NamedPipes/ClientPipeConnection.cs
+   A /NetOffice/NamedPipes/InterProcessConnectionState.cs
+   A /NetOffice/NamedPipes/NamedPipeNative.cs
+   A /NetOffice/NamedPipes/NamedPipeWrapper.cs
+   A /NetOffice/NamedPipes/PipeClient.cs
+   A /NetOffice/NamedPipes/PipeConnection.cs
+   A /NetOffice/NamedPipes/PipeHandle.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/Properties/AssemblyInfo.cs
+   A /NetOffice/Properties/Resources.Designer.cs
+   A /NetOffice/Properties/Resources.resx
+   M /NetOffice/RunningObjectTable.cs
+   M /NetOffice/Settings.cs
+   M /NetOffice/SinkHelper.cs
+   A /NetOffice/Tools
+   A /NetOffice/Tools/AttributeHelper.cs
+   A /NetOffice/Tools/COMAddinAttribute.cs
+   A /NetOffice/Tools/COMAddinEventHandler.cs
+   A /NetOffice/Tools/CustomUIAttribute.cs
+   A /NetOffice/Tools/ErrorHandlerAttribute.cs
+   A /NetOffice/Tools/IDTExtensibility2.cs
+   A /NetOffice/Tools/RegisterErrorHandlerAttribute.cs
+   A /NetOffice/Tools/RegisterFunctionAttribute.cs
+   A /NetOffice/Tools/RegistryLocationAttribute.cs
+   A /NetOffice/Tools/UnRegisterFunctionAttribute.cs
+
+- add tools namespace
+- add debug console named pipes(not done)
+------------------------------------------------------------------------
+r104131 | SND\SebastianDotNet_cp | 2013-10-25 19:23:22 +0200 (Fri, 25 Oct 2013) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClass/Constructor.txt
+   M /LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Event/Interface.txt
+   M /LateBindingApi.CodeGenerator.CSharp/EventApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Interface/Constructor.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Interface/FakedClassConstructor.txt
+   M /LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/ModuleApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/TestClient/Form1.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/CustomTaskPaneCollection.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.WFApplication/app.config
+   A /LateBindingApi.suo
+   M /NetOffice/Attributes/CustomEnumeratorAttribute.cs
+   M /NetOffice/Attributes/CustomMethodAttribute.cs
+   M /NetOffice/Attributes/EntityTypeAttribute.cs
+   M /NetOffice/Attributes/NetOfficeAssemblyAttribute.cs
+   M /NetOffice/Attributes/SupportByVersionAttribute.cs
+   M /NetOffice/COMObject.cs
+   A /NetOffice/Core.cs
+   M /NetOffice/DebugConsole.cs
+   A /NetOffice/DebugConsoleMode.cs
+   M /NetOffice/Factory.cs
+   M /NetOffice/Interfaces/IFactoryInfo.cs
+   M /NetOffice/Invoker.cs
+   A /NetOffice/NamedPipes/DebugConsole.cs
+   M /NetOffice/NamedPipes/NamedPipeWrapper.cs
+   A /NetOffice/NamedPipes/NetOfficeException.cs
+   M /NetOffice/NamedPipes/PipeClient.cs
+   M /NetOffice/NamedPipes/PipeConnection.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/NetOfficeException.cs
+   M /NetOffice/RetryMessageFilter.cs
+   M /NetOffice/RunningObjectTable.cs
+   M /NetOffice/Settings.cs
+   A /NetOffice/SharedOutputMode.cs
+   M /NetOffice/SinkHelper.cs
+   M /NetOffice/Tools/AttributeHelper.cs
+   M /NetOffice/Tools/COMAddinEventHandler.cs
+   A /NetOffice/Tools/ErrorMethodKind.cs
+   M /NetOffice/Tools/IDTExtensibility2.cs
+   M /NetOffice/Tools/RegisterFunctionAttribute.cs
+   A /NetOffice/Tools/TweakAttribute.cs
+   A /NetOffice/Tools/Tweaks.cs
+   M /NetOffice/Utils.cs
+
+- update Tools/Core
+------------------------------------------------------------------------
+r104132 | SND\SebastianDotNet_cp | 2013-10-25 21:40:37 +0200 (Fri, 25 Oct 2013) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/EnumsApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Generator.cs
+   M /LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Settings.cs
+   M /LateBindingApi.suo
+
+- add msdn documentation markder
+------------------------------------------------------------------------
+r104163 | SND\SebastianDotNet_cp | 2013-10-27 00:04:18 +0200 (Sun, 27 Oct 2013) | 1 line
+Changed paths:
+   D /BuildProcessTemplates
+   D /BuildProcessTemplates/DefaultTemplate.11.1.xaml
+   D /BuildProcessTemplates/LabDefaultTemplate.11.xaml
+   D /BuildProcessTemplates/UpgradeTemplate.xaml
+
+- delete BuildProcessTemplates
+------------------------------------------------------------------------
+r104176 | SND\SebastianDotNet_cp | 2013-10-27 02:47:21 +0100 (Sun, 27 Oct 2013) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClassApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/DerivedManager.cs
+   M /LateBindingApi.CodeGenerator.CSharp/DispatchApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/DocumentationApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/FormConfigDialog.Designer.cs
+   M /LateBindingApi.CodeGenerator.CSharp/InterfaceApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/MethodApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/PropertyApi.cs
+   M /LateBindingApi.suo
+
+- update msdn documentation link generator
+------------------------------------------------------------------------
+r105121 | SND\SebastianDotNet_cp | 2013-11-26 19:46:40 +0100 (Tue, 26 Nov 2013) | 2 lines
+Changed paths:
+   A /LateBindingApi.CodeGenerator.CSharp/CoClass/Excel.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /NetOffice/Core.cs
+   M /NetOffice/Interfaces/IFactoryInfo.cs
+
+- add Excel.txt (running instances)
+- change IProjectInfo (multiple id's for components)
+------------------------------------------------------------------------
+r105123 | SND\SebastianDotNet_cp | 2013-11-26 20:16:50 +0100 (Tue, 26 Nov 2013) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormMain.cs
+   M /LateBindingApi.suo
+   M /NetOffice/Core.cs
+
+- fix equal id, cheats
+------------------------------------------------------------------------
+r111335 | SND\SebastianDotNet_cp | 2014-11-01 10:58:25 +0100 (Sat, 01 Nov 2014) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   M /LateBindingApi.suo
+   M /NetOffice/COMObject.cs
+   M /NetOffice/Core.cs
+   M /NetOffice/RunningObjectTable.cs
+   M /NetOffice/Utils.cs
+
+- some minor xml doc/attribute improvements
+------------------------------------------------------------------------
+r111337 | SND\SebastianDotNet_cp | 2014-11-01 11:45:16 +0100 (Sat, 01 Nov 2014) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/SolutionApi.cs
+   M /LateBindingApi.suo
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/RunningObjectTable.cs
+   A /NetOffice/WndUtils
+   A /NetOffice/WndUtils/ExcelApplicationWindow.cs
+   A /NetOffice/WndUtils/WindowEnumerator.cs
+
+- add WndUtils (improve stupid ROT)
+------------------------------------------------------------------------
+r111340 | SND\SebastianDotNet_cp | 2014-11-01 17:00:16 +0100 (Sat, 01 Nov 2014) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/CoClass/EventHelper.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Visio/COMAddin.txt
+   M /LateBindingApi.suo
+
+- fix visio comaddin
+------------------------------------------------------------------------
+r111505 | SND\SebastianDotNet_cp | 2014-11-13 22:39:17 +0100 (Thu, 13 Nov 2014) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/CustomTaskPaneCollection.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Visio/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/ToolsApi.cs
+   M /LateBindingApi.CodeGenerator.WFApplication/Forms/FormNetOffice.Designer.cs
+   M /LateBindingApi.suo
+   M /NetOffice/COMObject.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/Properties/AssemblyInfo.cs
+   M /NetOffice/Tools/AttributeHelper.cs
+   A /NetOffice/Tools/CustomPaneAttribute.cs
+   M /NetOffice/Tools/CustomUIAttribute.cs
+   M /NetOffice/Tools/IDTExtensibility2.cs
+
+- improve tools
+------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+- add analyzer/codegenerator alias support
+- add analyzer/codegenerator module support
+- add analyzer/codegenerator struct support (not finished, COM Interop Flags missing)
+- add versionindependent event support
+- change project file format to "0.7"
+- office file on mainpage updated
+- add created office solution to mainpage
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72111

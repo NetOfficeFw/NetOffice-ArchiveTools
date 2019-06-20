@@ -1,0 +1,3 @@
+- add statistics feature
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/83829

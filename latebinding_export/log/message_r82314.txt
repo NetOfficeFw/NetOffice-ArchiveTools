@@ -1,0 +1,4 @@
+- add custom enumerator support for types with Count and Item(this indexer) but no enumerator
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/82314

@@ -1,0 +1,4 @@
+- change collection classes interface IEnumerable => IEnumerable<T>
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/85029

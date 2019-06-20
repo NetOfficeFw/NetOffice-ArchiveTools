@@ -1,0 +1,4 @@
+- add xml docu to NetOffice.Core
+- add MSForms to KeyTokens.txt
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/112777

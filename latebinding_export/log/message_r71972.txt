@@ -1,0 +1,11 @@
+- lot of small bugfixes
+- add codegenerator CoClass support
+- add codegenerator method support
+- add codegenerator parameter support
+- generates a ready-to-compile solution
+
+- change project file format to "0.5"
+  office file on mainpage updated
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71972

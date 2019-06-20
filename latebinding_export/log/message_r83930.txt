@@ -1,0 +1,4 @@
+- fix this indexer with optional parameters
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/83930

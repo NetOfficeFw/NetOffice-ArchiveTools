@@ -1,0 +1,3 @@
+- add pragma warning disable
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72197

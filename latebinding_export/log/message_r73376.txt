@@ -1,0 +1,5 @@
+- update LateBindingApi.Core.dll
+  EnableEvent is true by default
+  Factory.Initialize enables message filter
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/73376

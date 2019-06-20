@@ -1,0 +1,5 @@
+- exlude OLE Automation TypeLibrary
+- add interface generation-As-EarlyBind Support
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72191

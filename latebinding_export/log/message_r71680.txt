@@ -1,0 +1,4 @@
+fix codegenerator project reference bug
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71680

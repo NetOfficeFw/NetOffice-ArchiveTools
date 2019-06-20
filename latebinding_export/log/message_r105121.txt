@@ -1,0 +1,4 @@
+- add Excel.txt (running instances)
+- change IProjectInfo (multiple id's for components)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/105121

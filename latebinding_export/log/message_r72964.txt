@@ -1,0 +1,4 @@
+- fix COMObject Dispose()
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72964

@@ -1,0 +1,6 @@
+add enumerator support
+change projectfile version to "0.4"
+office file on mainpage updated.
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71737

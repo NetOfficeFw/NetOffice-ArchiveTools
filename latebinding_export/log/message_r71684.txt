@@ -1,0 +1,3 @@
+add readme.txt
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71684

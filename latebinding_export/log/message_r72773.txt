@@ -1,0 +1,3 @@
+- update LateBindingApi.Core.dll
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72773

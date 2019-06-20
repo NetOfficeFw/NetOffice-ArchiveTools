@@ -1,0 +1,5 @@
+- add RunningObjectTable.cs
+- add OnDisposeEventHandler.cs
+- add Dispose check
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/94557

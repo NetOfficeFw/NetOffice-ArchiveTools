@@ -1,0 +1,5 @@
+- fix property get return
+- fix supportbylibrary xml doku (one more time)
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72786

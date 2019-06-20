@@ -1,0 +1,4 @@
+add codegenerator compile order project support
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71664

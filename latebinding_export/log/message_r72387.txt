@@ -1,0 +1,5 @@
+- fix byRef Parameter COMObject in delegates
+- fix Invoker.CreateParamModifiers()
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72387

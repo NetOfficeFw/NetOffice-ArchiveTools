@@ -1,0 +1,4 @@
+- add static Globals to C# Generator
+- fix SupportByLibrary Bug(for CoClasses with multiple base interfaces in different versions)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/88010

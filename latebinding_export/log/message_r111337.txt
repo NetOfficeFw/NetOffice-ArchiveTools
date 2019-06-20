@@ -1,0 +1,3 @@
+- add WndUtils (improve stupid ROT)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/111337

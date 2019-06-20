@@ -1,0 +1,3 @@
+- some minor xml doc/attribute improvements
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/111335

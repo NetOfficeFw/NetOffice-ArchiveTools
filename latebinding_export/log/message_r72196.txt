@@ -1,0 +1,7 @@
+- extend vb6 dummy project
+- change to project file format "0.8"
+- office file on mainpage updated
+
+- nearly complete !
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72196

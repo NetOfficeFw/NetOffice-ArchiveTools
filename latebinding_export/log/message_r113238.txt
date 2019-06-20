@@ -1,0 +1,3 @@
+- improve utils
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/113238

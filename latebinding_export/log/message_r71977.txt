@@ -1,0 +1,4 @@
+- codegenerator supports all available options now
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71977

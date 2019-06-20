@@ -1,0 +1,7 @@
+- add bool SupportMethod(string name)
+- add bool SupportProperty(string name)
+- add bool SupportEntity(string name)
+- applied to COMObject,ask for available method or property at runtime
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/82689

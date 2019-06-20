@@ -1,0 +1,4 @@
+- extend generated using instructions
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71978

@@ -1,0 +1,9 @@
+add interface mirror feature - this means for example in very rare situations
+a interface are changed from Interface in a DispatchInterface in a newer type library version.
+but its the same type, convert to 1 proxy class now.
+
+change project file format. old project files not longer valid.
+office file on mainpage are updated.
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71683

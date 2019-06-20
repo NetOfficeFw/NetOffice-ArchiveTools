@@ -1,0 +1,3 @@
+extend Circus.vpb (visual basic6 dummy project)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71973

@@ -1,0 +1,3 @@
+- update Tools/Core
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/104131

@@ -1,0 +1,4 @@
+- add interface support
+- add coclass support
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/68475

@@ -1,0 +1,4 @@
+- add SupportByLibrary to xml source docu
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72782

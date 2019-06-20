@@ -1,0 +1,6 @@
+add project reference support
+add codegenerator constant support
+add codegenerator enum support
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71659

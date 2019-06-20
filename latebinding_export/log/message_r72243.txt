@@ -1,0 +1,4 @@
+- fix event trouble
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72243

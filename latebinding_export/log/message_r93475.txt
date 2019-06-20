@@ -1,0 +1,3 @@
+-fix NetOfficeAssemblyAttribute
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/93475

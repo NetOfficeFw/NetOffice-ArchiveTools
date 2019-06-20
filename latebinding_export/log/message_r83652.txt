@@ -1,0 +1,5 @@
+- refactoring LateBindingApi.Core.dll
+- add Settings.AddHocLoading ( automatic load dependend assemblies while Initialize() )
+- add Settings.AutomaticQuit ( automatic quit for application objects while Dipsose() specialy for using statements )
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/83652

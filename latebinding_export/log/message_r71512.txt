@@ -1,0 +1,4 @@
+analyzing part complete!
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71512

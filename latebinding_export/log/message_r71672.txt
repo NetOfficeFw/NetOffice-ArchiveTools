@@ -1,0 +1,4 @@
+perform codegeneration as async operation
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71672

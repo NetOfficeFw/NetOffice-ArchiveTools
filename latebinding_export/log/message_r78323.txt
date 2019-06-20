@@ -1,0 +1,3 @@
+- add scan for duplicated interfaces (same interface id)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/78323

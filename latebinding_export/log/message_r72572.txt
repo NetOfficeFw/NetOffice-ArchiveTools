@@ -1,0 +1,3 @@
+- fix ProxyCountChanged event
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72572

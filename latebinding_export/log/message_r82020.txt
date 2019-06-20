@@ -1,0 +1,3 @@
+- add docu file generator [related with NetOffice Developer Toolbox 'Office Compatibility']
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/82020

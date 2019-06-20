@@ -1,0 +1,4 @@
+improve type library browser
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/78460

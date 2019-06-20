@@ -1,0 +1,3 @@
+Upgrade: New Version of LabDefaultTemplate.xaml. To upgrade your build definitions, please visit the following link: http://go.microsoft.com/fwlink/?LinkId=254563
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/94877

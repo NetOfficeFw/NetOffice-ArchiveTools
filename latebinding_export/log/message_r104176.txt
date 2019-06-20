@@ -1,0 +1,3 @@
+- update msdn documentation link generator
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/104176

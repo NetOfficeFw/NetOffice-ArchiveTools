@@ -1,0 +1,3 @@
+- fix factory
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72663

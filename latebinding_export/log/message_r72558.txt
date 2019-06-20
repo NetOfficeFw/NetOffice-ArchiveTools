@@ -1,0 +1,5 @@
+- fix heavy enumerator bug
+- add .net 4 support
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72558

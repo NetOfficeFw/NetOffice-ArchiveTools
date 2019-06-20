@@ -1,0 +1,3 @@
+- fix vb.net code style
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/87667

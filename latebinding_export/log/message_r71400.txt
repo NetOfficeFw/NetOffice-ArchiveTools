@@ -1,0 +1,5 @@
+enhance dependency lib info
+cancel support backgroundworker
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71400

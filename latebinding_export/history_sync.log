@@ -1,0 +1,177 @@
+------------------------------------------------------------------------
+r111659 | SND\SebastianDotNet_cp | 2014-11-20 02:25:01 +0100 (Thu, 20 Nov 2014) | 2 lines
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/ITaskPane.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Visio/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   M /LateBindingApi.suo
+
+- enable MSProject Tools message filter by default
+- change tools register code(programmable key)
+------------------------------------------------------------------------
+r111670 | SND\SebastianDotNet_cp | 2014-11-20 12:15:58 +0100 (Thu, 20 Nov 2014) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.suo
+
+
+------------------------------------------------------------------------
+r111678 | SND\SebastianDotNet_cp | 2014-11-20 17:29:34 +0100 (Thu, 20 Nov 2014) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /LateBindingApi.suo
+
+- remove Excel TypeDescription provider reference
+------------------------------------------------------------------------
+r112777 | SND\SebastianDotNet_cp | 2015-02-13 00:51:15 +0100 (Fri, 13 Feb 2015) | 2 lines
+Changed paths:
+   M /LateBindingApi.suo
+   M /NetOffice/COMObject.cs
+   M /NetOffice/Core.cs
+   M /NetOffice/DependentAssembly.cs
+   M /NetOffice/EntityNotSupportedException.cs
+   M /NetOffice/KeyTokens.txt
+   M /NetOffice/Properties/AssemblyInfo.cs
+   M /NetOffice/RunningObjectTable.cs
+   M /NetOffice/Tools/Tweaks.cs
+   M /NetOffice/Utils.cs
+
+- add xml docu to NetOffice.Core
+- add MSForms to KeyTokens.txt
+------------------------------------------------------------------------
+r113238 | SND\SebastianDotNet_cp | 2015-03-08 05:35:51 +0100 (Sun, 08 Mar 2015) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/LateBindingApi.CodeGenerator.CSharp.csproj
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Access/CommonUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils/DocumentFormat.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils/FileUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/CommonUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils/DocumentFormat.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils/FileUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/CommonUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.1031.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.1033.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.Designer.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.rtxt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/AboutDialog.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.1031.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.1033.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.Designer.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.rtxt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DiagnosticsDialog.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DialogLayoutSettings.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/DialogLocalizationSettings.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.1031.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.1033.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.Designer.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.rtxt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ErrorDialog.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.1031.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.1033.xml
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.Designer.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.rtxt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/RichTextDialog.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ToolsDialog.Designer.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ToolsDialog.rtxt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Dialogs/ToolsDialog.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/AppDomainInfo.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/AssemblyInfo.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/DiagnosticPair.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/DiagnosticPairCollection.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/EnvironmentInfo.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/HostInfo.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Informations/Infos.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ColorUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/DialogUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ImageUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ResourceUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/TrayUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/CommonUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/CommonUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils/DocumentFormat.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils/FileUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Project/CommonUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Word/CommonUtils.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils/DocumentFormat.txt
+   A /LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils/FileUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/ToolsApi.cs
+   M /LateBindingApi.suo
+   M /NetOffice/NetOffice.csproj
+   A /NetOffice/Tools/COMAddinBase.cs
+
+- improve utils
+------------------------------------------------------------------------
+r113255 | SND\SebastianDotNet_cp | 2015-03-09 03:58:31 +0100 (Mon, 09 Mar 2015) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/CommonUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   M /LateBindingApi.suo
+   M /NetOffice/Tools/CustomUIAttribute.cs
+
+- fix utils
+------------------------------------------------------------------------
+r113256 | SND\SebastianDotNet_cp | 2015-03-09 06:15:45 +0100 (Mon, 09 Mar 2015) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Outlook/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/COMAddin.txt
+   M /LateBindingApi.suo
+
+- fix missing dispose(utils)
+------------------------------------------------------------------------
+r113380 | SND\SebastianDotNet_cp | 2015-03-16 21:20:20 +0100 (Mon, 16 Mar 2015) | 1 line
+Changed paths:
+   M /LateBindingApi.CodeGenerator.CSharp/Project/ProjectInfo.txt
+   M /LateBindingApi.CodeGenerator.CSharp/ProjectApi.cs
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Access/Utils/FileUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Excel/Utils/FileUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/MultiRegisterAttribute.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ColorUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/DialogUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ImageUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/ResourceUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Office/Utils/TrayUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/PowerPoint/Utils/FileUtils.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Project/COMAddin.txt
+   M /LateBindingApi.CodeGenerator.CSharp/Tools/Word/Utils/FileUtils.txt
+   M /LateBindingApi.suo
+   M /NetOffice/Core.cs
+   A /NetOffice/CurrentAppDomain.cs
+   M /NetOffice/Interfaces/IFactoryInfo.cs
+   M /NetOffice/Invoker.cs
+   M /NetOffice/NetOffice.csproj
+   M /NetOffice/WndUtils/WindowEnumerator.cs
+
+- add CurrentAppDomain.cs
+------------------------------------------------------------------------

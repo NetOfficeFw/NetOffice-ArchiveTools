@@ -1,0 +1,4 @@
+- generate client profile (3.5 and 4.0)
+- fix Global Module
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/89989

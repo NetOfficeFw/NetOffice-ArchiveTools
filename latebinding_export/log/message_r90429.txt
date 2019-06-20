@@ -1,0 +1,3 @@
+- change Initialize() implementation
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/90429

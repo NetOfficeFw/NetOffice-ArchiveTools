@@ -1,0 +1,5 @@
+- fix enum conversion
+- change COMObject to Object
+- add dumy base class because c# syntax issues 
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/89212

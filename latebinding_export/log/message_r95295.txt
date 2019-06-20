@@ -1,0 +1,4 @@
+- add tools namespace
+- fix conversion bug (sinkhelper methods)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/95295

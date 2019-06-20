@@ -1,0 +1,3 @@
+- add event bridge for CoClass on demand
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72332

@@ -1,0 +1,5 @@
+- remove COMVariant Datatype
+- update LateBindingApi.Core dll's
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72559

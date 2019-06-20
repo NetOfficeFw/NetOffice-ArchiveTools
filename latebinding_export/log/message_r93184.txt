@@ -1,0 +1,3 @@
+- fix optional parameters (ParamFlags==17)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/93184

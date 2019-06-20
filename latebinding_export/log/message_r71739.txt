@@ -1,0 +1,4 @@
+extend EnumerableApi
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71739

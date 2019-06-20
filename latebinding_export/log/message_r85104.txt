@@ -1,0 +1,5 @@
+- Hidden member support
+- IEnumerable<object> for unkown COM proxies
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/85104

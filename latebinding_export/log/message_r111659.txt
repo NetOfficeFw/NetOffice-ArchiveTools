@@ -1,0 +1,4 @@
+- enable MSProject Tools message filter by default
+- change tools register code(programmable key)
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/111659

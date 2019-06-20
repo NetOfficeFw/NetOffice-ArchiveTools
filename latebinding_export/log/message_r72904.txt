@@ -1,0 +1,3 @@
+- update codegenerator ressource dll's
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72904

@@ -1,0 +1,3 @@
+- add NetOffice Cheat Window
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/87933

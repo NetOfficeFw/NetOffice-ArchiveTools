@@ -1,0 +1,4 @@
+improve dependency libs check
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/71356

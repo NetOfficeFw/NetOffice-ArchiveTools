@@ -1,0 +1,3 @@
+- remove Excel TypeDescription provider reference
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/111678

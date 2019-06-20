@@ -1,0 +1,4 @@
+- add optional parameter support .NET 4
+
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/72770

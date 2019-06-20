@@ -1,0 +1,3 @@
+- add AppDomain resolver
+
+Imported from https://latebindingapi.codeplex.com/SourceControl/changeset/88112
