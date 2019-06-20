@@ -1,0 +1,7 @@
+[Regular Commit]
+- improve toolbox ui
+- add toolbox easter egg
+- fix solution version updater
+
+Imported from NetOffice 111526
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111526

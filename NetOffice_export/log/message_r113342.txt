@@ -1,0 +1,9 @@
+[Regular Commit]
+
+- add missing DAO typelib id (acedao.dll)[discussion:586132]
+- add Outook ApplicationUtils/DialogUtils
+- add Powerpoint ApplicationUtils
+- update source/assemblies to 1.7.3
+
+Imported from NetOffice 113342
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113342

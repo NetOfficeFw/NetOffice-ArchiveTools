@@ -1,0 +1,6 @@
+- fix missing lock  #21514
+- rename/type COMObject.ListChildObjects #21558
+
+
+Imported from NetOffice 111536
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111536

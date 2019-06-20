@@ -1,0 +1,5 @@
+Issue #19363 Blurred taskbar icon for Developer Toolbox
+Set 32x32 icon for main form.
+
+Imported from NetOffice 112293
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112293

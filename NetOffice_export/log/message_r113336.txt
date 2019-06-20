@@ -1,0 +1,7 @@
+[Regular Commit]
+- fix/improve NetOffice.OutlookSecurity
+- improve Google Translation addin(handle multi-line text)
+- add concept test for NetOffice.OutlookSecurity
+
+Imported from NetOffice 113336
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113336

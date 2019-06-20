@@ -1,0 +1,8 @@
+[Regular Commit]
+
+- fix Google Translation Addin example
+- improve Google Translation Service Host(translate also in application)  
+- edit examples typo/look&feel 
+
+Imported from NetOffice 112835
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112835

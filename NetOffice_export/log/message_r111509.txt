@@ -1,0 +1,8 @@
+[Internal Commit]
+- delete NO Toolbox 1.2
+- improve IExtensibility COM Addin Examples register code again
+- fix Outlook VB NetOffice COMAddin example
+- improve NetOffice.Core assembly detection
+
+Imported from NetOffice 111509
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111509

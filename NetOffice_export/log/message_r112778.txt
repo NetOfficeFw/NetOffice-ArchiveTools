@@ -1,0 +1,7 @@
+[Regular Commit]
+- add Microsoft Forms 2.0 Component Library(source/assemblies/key files)
+ to support the default document level controls(button,checkbox, etc...)
+ (regarding #77752)
+
+Imported from NetOffice 112778
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112778

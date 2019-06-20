@@ -1,0 +1,5 @@
+[Regular Commit]
+- fix OutlookSecurity repository conflict
+
+Imported from NetOffice 112836
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112836

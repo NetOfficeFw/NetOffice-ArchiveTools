@@ -1,0 +1,5 @@
+[Regular Commit]
+- fix minor issue in Developer Toolbox assembly loader(AppDomain.ResolveAssembly)
+
+Imported from NetOffice 113691
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113691

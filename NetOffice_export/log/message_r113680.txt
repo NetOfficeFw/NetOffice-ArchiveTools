@@ -1,0 +1,7 @@
+[Regular Commit]
+- improve Toobox Assembly Loader security(Program.cs)
+- fix some Toolbox source quality minors
+
+
+Imported from NetOffice 113680
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113680

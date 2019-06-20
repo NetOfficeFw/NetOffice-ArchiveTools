@@ -1,0 +1,6 @@
+[Regular Commit]
+- finish Developer Toolbox language editor
+- fix scary Mono.Cecil reference problem ("cant find compiler ctor..")
+
+Imported from NetOffice 111674
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111674

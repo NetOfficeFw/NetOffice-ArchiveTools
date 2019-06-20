@@ -1,0 +1,5 @@
+[Regular Commit]
+- fix last commit(files missing)
+
+Imported from NetOffice 111664
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111664

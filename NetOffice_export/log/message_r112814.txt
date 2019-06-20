@@ -1,0 +1,4 @@
+- fixed Toolbox Outlook Security issue (links 2, 3 didn't work)
+
+Imported from NetOffice 112814
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112814

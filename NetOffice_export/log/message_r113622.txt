@@ -1,0 +1,11 @@
+[Regular Commit]
+- setup NetOffice version to 1.7.4.0 (ready for preview release)
+- setup ToolBox version to 1.4.3.0
+- add NetOffice.Core.CreateInstance event
+- add concept test:CreateInstanceEvent(replace NO classes with own)
+- improve Toolbox project wizard
+- add ToolBox language: russian
+- update assemblies (incl. toolbox wizard)
+
+Imported from NetOffice 113622
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113622

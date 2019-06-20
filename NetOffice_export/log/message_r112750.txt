@@ -1,0 +1,6 @@
+[Regular Commit]
+- fix issue #21654 (toolbox 1.4.2 beta doesnt handle resources as well)
+
+
+Imported from NetOffice 112750
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112750

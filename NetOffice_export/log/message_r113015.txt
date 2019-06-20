@@ -1,0 +1,5 @@
+[Regular Commit]
+- one more Toolbox improvements
+
+Imported from NetOffice 113015
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113015

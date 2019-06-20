@@ -1,0 +1,9 @@
+[Regular Commit]
+- improve NetOffice Core assembly loader
+- fix MSProject addin tools
+- improve standard examples
+- improve addin removal tool
+- update assemblies
+
+Imported from NetOffice 113493
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113493

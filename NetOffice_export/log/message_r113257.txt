@@ -1,0 +1,6 @@
+[Regular Commit]
+- fix missing utils dispose in Outlook.Tools/COMAddin
+- update assemblies
+
+Imported from NetOffice 113257
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113257

@@ -1,0 +1,6 @@
+[Regular Commit]
+- fix Toolbox Project Wizard Localization issue
+- fix Toolbox Project Wizard FileSystem issue (Directory.Move can't handle different root directories)
+
+Imported from NetOffice 112808
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112808

@@ -1,0 +1,10 @@
+[Regular Commit]
+- improve Office->ColorUtils
+- add Word->ApplicationUtils (get main wnd handle from document)
+- improve toolbox assembly loader (load from unsafe locations)
+- improve toolbox ui
+- add LoadAssembliesUnsafe option (NetOffice.Core.Settings)
+- update assemblies
+
+Imported from NetOffice 113578
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113578

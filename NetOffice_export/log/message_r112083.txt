@@ -1,0 +1,5 @@
+[Regular Commit]
+- fix some minors in Developer Toolbox(beta)
+
+Imported from NetOffice 112083
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112083

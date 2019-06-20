@@ -1,0 +1,10 @@
+[Regular Commit]
+- allow multiple custom pane attributes in COMAddin
+- hide GetCustomUI/CTPFactoryAvailable in COMAddin(EditorBrowsable.Advanced)
+- improve diagnostics
+- fix some minors in standard examples
+- improve Toolbox RegistryEditor UI
+- update assemblies
+
+Imported from NetOffice 113617
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113617

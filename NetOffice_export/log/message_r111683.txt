@@ -1,0 +1,7 @@
+[Regular Commit]
+
+- add Toolbox localization support to registry editor component
+  (change name, change string, change dword, change binary)
+
+Imported from NetOffice 111683
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111683

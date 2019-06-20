@@ -1,0 +1,5 @@
+[Regular Commit]
+- fix Developer Toolbox resource cache
+
+Imported from NetOffice 111676
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111676

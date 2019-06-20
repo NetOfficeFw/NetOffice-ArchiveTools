@@ -1,0 +1,11 @@
+[Regular Commit]
+- change assemblies/source/examples/tutorials to NetOffice 1.7.2
+- improve Tools.COMAddin 
+- extend ITaskPane (OnDockPositionChanged, OnVisibleStateChanged) 
+- improve IExtensibility COMAddin Examples register code
+- change NetOffice COMAddin Extendend Examples
+- fix COMObject operators == and !=
+- delete Tools
+
+Imported from NetOffice 111502
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111502

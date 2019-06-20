@@ -1,0 +1,9 @@
+[Regular Commit]
+- add NO Toolbox 1.4
+  (completly new Project Wizward)
+  (improve registry editor)
+  (improve settings handler)
+  (improve user interface)
+
+Imported from NetOffice 111510
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111510

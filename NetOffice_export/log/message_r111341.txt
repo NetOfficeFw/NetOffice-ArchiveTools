@@ -1,0 +1,9 @@
+[Regular Commit]
+- change source/examples/tutorials to NetOffice 1.7.1(RC)
+- add msdn online documentation links to xml doc
+- improve/fix NO tools
+- 1 major fix (#21423)
+- some minor fixes
+
+Imported from NetOffice 111341
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111341

@@ -1,0 +1,5 @@
+[Regular Commit]
+- fix toolbox error dialog is shown 2x times if dependency folder is missing
+
+Imported from NetOffice 113016
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113016

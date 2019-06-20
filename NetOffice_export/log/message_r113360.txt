@@ -1,0 +1,6 @@
+[Regular Commit]
+- fix Developer Toolbox Project Wizard =>
+  MS Project limitation [discussion:586370]
+
+Imported from NetOffice 113360
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113360

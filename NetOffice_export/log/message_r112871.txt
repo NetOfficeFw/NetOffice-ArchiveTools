@@ -1,0 +1,5 @@
+[Regular Commit]
+- improve Toolbox look&feel
+
+Imported from NetOffice 112871
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112871

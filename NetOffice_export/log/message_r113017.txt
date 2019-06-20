@@ -1,0 +1,6 @@
+[Regular Commit]
+- improve Wikipedia Search Addin example
+  (run search async to avoid UI freeze)
+
+Imported from NetOffice 113017
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113017

@@ -1,0 +1,9 @@
+[Regular Commit]
+- add missing AssemblyInfo.cs to source
+- fix CommonUtils.OwnerAssembly(ressource issue)
+- fix Access.Tools.COMAddin
+- improve CustomUIAttribute
+
+
+Imported from NetOffice 113253
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113253

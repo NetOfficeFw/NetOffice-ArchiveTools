@@ -1,0 +1,129 @@
+$ ./exportpatch.sh
+SVN_URL = https://netoffice.svn.codeplex.com/svn
+Exporting SVN repository
+SVN URL: https://netoffice.svn.codeplex.com/svn
+
+Skipping revision 111341...
+Exporting patch for revision r111502
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r111502
+
+Exporting patch for revision r111509
+svn: E175012: Connection timed out
+Done exporting patch for revision r111509
+
+Exporting patch for revision r111510
+Done exporting patch for revision r111510
+
+Exporting patch for revision r111523
+Done exporting patch for revision r111523
+
+Exporting patch for revision r111526
+Done exporting patch for revision r111526
+
+Exporting patch for revision r111536
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r111536
+
+Exporting patch for revision r111537
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r111537
+
+Exporting patch for revision r111660
+Done exporting patch for revision r111660
+
+Exporting patch for revision r111661
+Done exporting patch for revision r111661
+
+Exporting patch for revision r111664
+Done exporting patch for revision r111664
+
+Exporting patch for revision r111674
+Done exporting patch for revision r111674
+
+Exporting patch for revision r111676
+Done exporting patch for revision r111676
+
+Exporting patch for revision r111683
+Done exporting patch for revision r111683
+
+Exporting patch for revision r112083
+Done exporting patch for revision r112083
+
+Exporting patch for revision r112250
+Done exporting patch for revision r112250
+
+Exporting patch for revision r112293
+Done exporting patch for revision r112293
+
+Exporting patch for revision r112750
+Done exporting patch for revision r112750
+
+Exporting patch for revision r112778
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r112778
+
+Exporting patch for revision r112808
+Done exporting patch for revision r112808
+
+Exporting patch for revision r112814
+Done exporting patch for revision r112814
+
+Exporting patch for revision r112835
+Done exporting patch for revision r112835
+
+Exporting patch for revision r112836
+Done exporting patch for revision r112836
+
+Exporting patch for revision r112869
+Done exporting patch for revision r112869
+
+Exporting patch for revision r112871
+Done exporting patch for revision r112871
+
+Exporting patch for revision r112883
+Done exporting patch for revision r112883
+
+Exporting patch for revision r113015
+Done exporting patch for revision r113015
+
+Exporting patch for revision r113016
+Done exporting patch for revision r113016
+
+Exporting patch for revision r113017
+Done exporting patch for revision r113017
+
+Exporting patch for revision r113239
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r113239
+
+Exporting patch for revision r113253
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r113253
+
+Exporting patch for revision r113257
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r113257
+
+Exporting patch for revision r113336
+./exportpatch.sh: line 34:  8532 Segmentation fault      (core dumped) svn diff --force -c $REVISION $SVN_URL > "$SVN_DIR/r$REVISION.p
+atch"
+Done exporting patch for revision r113336
+
+Exporting patch for revision r113342
+Done exporting patch for revision r113342
+
+Exporting patch for revision r113358
+Done exporting patch for revision r113358
+
+Exporting patch for revision r113360
+Done exporting patch for revision r113360
+
+Exporting patch for revision r113493
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r113493
+
+Exporting patch for revision r113578
+svn: E175002: REPORT request on '/svn/!svn/vcc/default' failed
+Done exporting patch for revision r113578
+

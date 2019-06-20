@@ -1,0 +1,10 @@
+[Regular Commit]
+- improve NetOffice.Tools Office/Excel/Word/Outlook/PowerPoint/Access/MSProject
+- add NetOffice.Tools.CommonUtils=>ImageUtils, ColorUtils, FileUtils, DialogUtils, ResourceUtils, Diagnostics
+- modify COMAddin with CommonUtils as instance property
+- add Tutorial13 (NetOffice Utils)
+- update source/assemblies
+
+
+Imported from NetOffice 113239
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113239

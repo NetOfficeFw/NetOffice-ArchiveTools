@@ -1,0 +1,5 @@
+[Internal Commit]
+- delete NetOffice 1.4.0
+
+Imported from NetOffice 111660
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111660

@@ -1,0 +1,6 @@
+Possibly fixed error 'Missing compiler required member 'System.Runtime.CompilerServices.ExtensionAttribute..ctor' (see !ReadMe.txt).
+Mono.Cecil.dll updated with assembly version 0.9.5 built for .NET 4.0 from GitHub sources (https://github.com/jbevain/cecil)
+
+
+Imported from NetOffice 112250
+https://netoffice.svn.codeplex.com/SourceControl/changeset/112250

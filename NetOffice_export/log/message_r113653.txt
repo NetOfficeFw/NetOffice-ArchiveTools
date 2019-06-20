@@ -1,0 +1,6 @@
+[Regular Commit]
+- add missing Toolbox file 1049.lng to repository
+- add singleton instance pattern for the Toolbox
+
+Imported from NetOffice 113653
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113653

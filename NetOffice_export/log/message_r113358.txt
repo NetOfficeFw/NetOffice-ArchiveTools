@@ -1,0 +1,8 @@
+[Regular Commit]
+- improve/fix PowerPoint ApplicationUtils
+- add concept test=>CommonUtils
+- improve Excel examples
+- fix performance tests
+
+Imported from NetOffice 113358
+https://netoffice.svn.codeplex.com/SourceControl/changeset/113358

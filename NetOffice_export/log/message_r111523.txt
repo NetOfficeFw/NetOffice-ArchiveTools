@@ -1,0 +1,5 @@
+[Regular Commit]
+- finish some minors (Toolbox)
+
+Imported from NetOffice 111523
+https://netoffice.svn.codeplex.com/SourceControl/changeset/111523
